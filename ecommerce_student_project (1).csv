@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City,Annual_Income,Membership_Years,Purchase_Frequency,Avg_Order_Value,Total_Spending,Spending_Score,Preferred_Category,Marketing_Channel,Device_Type,Payment_Method,Discount_Used,Satisfaction_Score,Order_Date
+1,56,Female,San Diego,45795,8,13,234,3042,60,Home,Paid Ads,Mobile,Debit Card,0,4.7,15-02-2025
+2,41,Male,San Jose,92955,6,13,272,3536,70,Beauty,Social Media,Tablet,Debit Card,0,3.2,15-05-2024
+3,20,Female,San Jose,99092,3,14,293,4102,82,Electronics,Paid Ads,Mobile,Debit Card,1,4.9,31-01-2025
+4,37,Female,Houston,53483,7,13,54,702,14,Fashion,Paid Ads,Desktop,Debit Card,1,3.1,15-10-2025
+5,59,Female,San Antonio,82995,6,11,289,3179,63,Beauty,Organic,Desktop,UPI,1,3.3,04-12-2025
+6,38,Male,New York,53247,2,12,236,2832,56,Electronics,Referral,Mobile,UPI,0,3.9,20-06-2024
+7,18,Female,San Antonio,97563,8,14,280,3920,78,Electronics,Social Media,Desktop,Credit Card,1,4.1,26-11-2024
+8,40,Male,Chicago,107373,8,14,233,3262,65,Electronics,Organic,Desktop,PayPal,1,3.7,23-02-2024
+9,31,Male,Houston,30206,10,10,241,2410,48,Sports,Social Media,Tablet,PayPal,0,4,19-02-2025
+10,39,Female,San Jose,52299,2,13,153,1989,39,Beauty,Organic,Tablet,Debit Card,0,3,22-05-2025
+11,50,Male,Dallas,60080,9,14,252,3528,70,Toys,Organic,Mobile,PayPal,0,2.9,02-05-2025
+12,59,Female,San Antonio,96199,6,9,199,1791,35,Fashion,Referral,Mobile,Credit Card,0,4.9,24-08-2025
+13,34,Female,Phoenix,56736,2,12,243,2916,58,Beauty,Paid Ads,Desktop,UPI,1,3.1,21-02-2025
+14,21,Female,New York,82662,8,9,299,2691,53,Electronics,Social Media,Tablet,Debit Card,0,5,23-12-2025
+15,33,Male,New York,45708,3,13,166,2158,43,Fashion,Social Media,Mobile,PayPal,0,2.7,21-08-2025
+16,45,Female,Dallas,103656,9,9,118,1062,21,Beauty,Social Media,Mobile,Debit Card,0,2.9,28-05-2025
+17,18,Male,Houston,50932,5,17,252,4284,85,Toys,Social Media,Mobile,UPI,0,4.3,12-07-2025
+18,28,Male,Los Angeles,62711,4,17,246,4182,83,Toys,Paid Ads,Desktop,Debit Card,0,4.9,12-02-2026
+19,52,Female,San Antonio,91135,9,8,296,2368,47,Home,Organic,Mobile,UPI,0,3.4,18-05-2025
+20,29,Female,Los Angeles,70818,6,9,57,513,10,Sports,Paid Ads,Mobile,UPI,1,3.7,29-03-2024
+21,50,Female,Phoenix,70764,3,13,36,468,9,Toys,Referral,Mobile,Credit Card,1,3.7,24-07-2025
+22,41,Male,San Antonio,33420,1,12,207,2484,49,Electronics,Social Media,Tablet,UPI,1,3.2,15-03-2025
+23,35,Female,San Jose,64584,10,13,170,2210,44,Electronics,Social Media,Mobile,Credit Card,0,3.8,29-08-2025
+24,56,Female,Chicago,84748,10,12,192,2304,46,Beauty,Paid Ads,Desktop,UPI,0,2.7,22-08-2024
+25,40,Male,Phoenix,82921,6,13,199,2587,51,Electronics,Social Media,Mobile,UPI,0,3.3,26-03-2024
+26,22,Female,Los Angeles,117142,4,16,66,1056,21,Beauty,Paid Ads,Desktop,PayPal,1,2.8,18-04-2024
+27,34,Male,Dallas,103847,3,11,248,2728,54,Beauty,Organic,Mobile,Debit Card,0,2.7,20-02-2026
+28,18,Male,Philadelphia,76175,6,14,291,4074,81,Sports,Referral,Tablet,UPI,0,4.1,15-02-2025
+29,43,Female,Houston,97215,3,15,239,3585,71,Sports,Social Media,Desktop,Debit Card,0,2.6,28-07-2025
+30,38,Female,Chicago,92752,5,11,119,1309,26,Fashion,Social Media,Mobile,UPI,0,3.4,20-09-2025
+31,22,Male,Chicago,46364,4,13,197,2561,51,Home,Organic,Tablet,Credit Card,0,2.8,01-02-2025
+32,50,Female,Chicago,99449,2,10,112,1120,22,Electronics,Referral,Desktop,Credit Card,1,2.6,03-11-2025
+33,28,Female,Los Angeles,30412,8,10,211,2110,42,Electronics,Referral,Tablet,Debit Card,0,4.3,02-12-2025
+34,49,Male,Philadelphia,91476,1,14,292,4088,81,Sports,Referral,Tablet,Credit Card,0,3.7,26-07-2024
+35,53,Female,Phoenix,46779,9,16,225,3600,72,Sports,Referral,Mobile,UPI,1,3.7,11-10-2024
+36,38,Female,New York,90566,9,12,258,3096,61,Sports,Paid Ads,Tablet,Debit Card,0,4.4,16-07-2025
+37,30,Male,San Diego,80343,10,11,213,2343,46,Sports,Organic,Desktop,UPI,0,2.7,19-12-2024
+38,34,Male,San Antonio,87854,7,11,201,2211,44,Toys,Referral,Mobile,Credit Card,1,3.1,27-10-2025
+39,45,Male,Philadelphia,33709,10,14,210,2940,58,Sports,Paid Ads,Desktop,UPI,0,2.7,23-10-2025
+40,49,Male,New York,52700,5,18,166,2988,59,Toys,Referral,Tablet,Credit Card,1,3.8,25-02-2025
+41,20,Female,Phoenix,49087,7,4,243,972,19,Fashion,Social Media,Desktop,UPI,0,3.5,08-08-2024
+42,45,Male,Chicago,57355,5,14,231,3234,64,Sports,Paid Ads,Desktop,PayPal,1,3.2,26-01-2026
+43,22,Female,New York,80990,9,11,261,2871,57,Toys,Organic,Desktop,UPI,0,2.9,24-01-2025
+44,28,Male,Philadelphia,92292,10,12,25,300,6,Home,Organic,Tablet,Credit Card,1,3.8,03-07-2024
+45,54,Female,New York,34809,10,11,20,220,4,Electronics,Social Media,Desktop,UPI,1,4,20-11-2025
+46,48,Male,Philadelphia,37239,7,14,137,1918,38,Beauty,Organic,Desktop,Debit Card,1,3.3,06-12-2024
+47,34,Female,Los Angeles,83871,7,15,85,1275,25,Toys,Paid Ads,Desktop,Debit Card,1,4.8,14-04-2024
+48,47,Female,San Antonio,55934,3,17,185,3145,62,Fashion,Referral,Mobile,Credit Card,0,4.8,18-05-2025
+49,46,Male,Chicago,69811,10,18,88,1584,31,Electronics,Referral,Tablet,UPI,1,3.7,31-07-2025
+50,48,Male,Los Angeles,36090,6,14,203,2842,56,Sports,Paid Ads,Tablet,PayPal,0,4.7,26-02-2024
+51,38,Female,Los Angeles,117044,2,9,20,180,3,Electronics,Paid Ads,Desktop,Credit Card,0,3.4,06-07-2024
+52,44,Female,New York,53624,10,15,258,3870,77,Fashion,Social Media,Mobile,UPI,0,2.9,27-03-2024
+53,52,Female,San Diego,80428,4,9,233,2097,41,Fashion,Organic,Desktop,Debit Card,0,4.4,30-06-2024
+54,24,Male,Dallas,35122,7,12,293,3516,70,Sports,Social Media,Desktop,PayPal,0,3.8,28-08-2024
+55,34,Male,Dallas,36229,10,12,32,384,7,Sports,Paid Ads,Tablet,UPI,0,4.2,08-01-2025
+56,39,Female,Los Angeles,109905,8,13,61,793,15,Home,Social Media,Tablet,Credit Card,0,3.4,18-06-2025
+57,23,Female,San Diego,33812,9,9,217,1953,39,Electronics,Referral,Tablet,PayPal,0,3.7,16-08-2025
+58,48,Female,San Jose,34324,4,12,81,972,19,Home,Organic,Mobile,Debit Card,1,3.9,20-01-2025
+59,43,Female,Philadelphia,72101,4,11,132,1452,29,Sports,Paid Ads,Tablet,PayPal,0,4.3,11-12-2024
+60,53,Male,San Diego,77362,1,11,280,3080,61,Fashion,Social Media,Mobile,PayPal,0,5,21-03-2025
+61,54,Female,Los Angeles,49216,9,13,113,1469,29,Toys,Organic,Tablet,Credit Card,0,4.6,16-05-2024
+62,51,Female,Chicago,114555,3,13,286,3718,74,Sports,Organic,Mobile,PayPal,1,3,19-05-2025
+63,31,Female,New York,50611,9,17,123,2091,41,Electronics,Organic,Mobile,Credit Card,0,3.7,01-01-2026
+64,19,Female,San Jose,48381,5,17,217,3689,73,Beauty,Referral,Tablet,Credit Card,1,4.1,05-09-2025
+65,50,Male,San Jose,89379,7,15,215,3225,64,Electronics,Paid Ads,Desktop,Credit Card,0,4.4,04-06-2025
+66,48,Male,Houston,59486,4,11,34,374,7,Beauty,Organic,Desktop,PayPal,1,2.9,18-04-2024
+67,48,Female,Philadelphia,69666,4,12,88,1056,21,Toys,Social Media,Tablet,PayPal,1,4.9,12-12-2025
+68,43,Female,Houston,106077,10,13,130,1690,33,Beauty,Organic,Mobile,UPI,1,4,30-11-2024
+69,59,Male,Phoenix,57632,10,5,233,1165,23,Fashion,Paid Ads,Desktop,PayPal,1,2.8,05-08-2024
+70,18,Female,Dallas,83173,7,9,156,1404,28,Home,Referral,Mobile,Debit Card,0,4.5,17-01-2025
+71,28,Male,Chicago,103509,2,12,36,432,8,Toys,Social Media,Mobile,PayPal,0,2.6,19-02-2026
+72,23,Male,San Antonio,49956,8,10,169,1690,33,Electronics,Social Media,Mobile,Credit Card,0,3,23-04-2025
+73,37,Female,Chicago,82853,6,12,160,1920,38,Toys,Social Media,Desktop,Credit Card,0,3.6,17-09-2025
+74,46,Male,Los Angeles,102847,8,13,194,2522,50,Toys,Paid Ads,Tablet,PayPal,0,3.8,22-08-2024
+75,21,Female,Los Angeles,85168,8,11,181,1991,39,Sports,Social Media,Mobile,Credit Card,0,2.6,25-05-2025
+76,20,Female,Los Angeles,60678,8,7,86,602,12,Home,Social Media,Desktop,UPI,1,3.9,18-08-2024
+77,33,Male,Chicago,84771,5,8,26,208,4,Sports,Referral,Mobile,UPI,1,4.3,28-04-2024
+78,35,Male,Houston,38705,1,16,253,4048,80,Sports,Organic,Desktop,UPI,1,3.4,03-09-2024
+79,47,Male,San Antonio,92516,3,19,299,5681,100,Electronics,Paid Ads,Tablet,Credit Card,0,3.9,10-09-2024
+80,31,Female,San Jose,108344,8,14,220,3080,61,Fashion,Organic,Mobile,Debit Card,0,4.6,06-01-2025
+81,40,Male,Philadelphia,104532,6,18,60,1080,21,Fashion,Social Media,Tablet,Credit Card,0,3.9,17-12-2024
+82,59,Male,Phoenix,46725,5,9,238,2142,42,Fashion,Organic,Mobile,Debit Card,0,4,17-07-2025
+83,38,Female,Phoenix,119563,10,11,212,2332,46,Home,Social Media,Tablet,UPI,0,4,22-08-2024
+84,53,Male,Houston,54762,7,7,269,1883,37,Home,Organic,Desktop,PayPal,0,3.2,11-04-2025
+85,51,Female,San Jose,77304,10,12,36,432,8,Electronics,Referral,Tablet,PayPal,0,4.3,23-02-2024
+86,54,Male,New York,116123,3,9,294,2646,52,Fashion,Organic,Tablet,Credit Card,0,4.5,18-03-2024
+87,29,Female,San Diego,31341,8,15,100,1500,30,Electronics,Paid Ads,Mobile,UPI,1,4.2,17-08-2025
+88,32,Male,San Diego,57935,10,13,289,3757,75,Fashion,Referral,Tablet,Credit Card,0,4.3,24-02-2024
+89,35,Male,Los Angeles,66062,4,16,122,1952,39,Home,Organic,Tablet,UPI,0,4,04-09-2024
+90,43,Female,New York,50662,7,5,23,115,2,Sports,Paid Ads,Desktop,Debit Card,1,3.3,01-12-2024
+91,52,Female,Dallas,82393,2,10,264,2640,52,Fashion,Paid Ads,Mobile,PayPal,0,4,26-11-2025
+92,56,Female,Phoenix,42676,1,9,161,1449,28,Electronics,Social Media,Mobile,Credit Card,0,4.6,05-02-2026
+93,32,Male,Philadelphia,65400,1,11,206,2266,45,Toys,Social Media,Tablet,Debit Card,1,4.5,01-04-2024
+94,30,Male,Chicago,110097,9,15,91,1365,27,Sports,Paid Ads,Desktop,PayPal,1,4.1,30-03-2024
+95,51,Female,New York,112856,1,15,234,3510,70,Sports,Referral,Desktop,PayPal,1,4.8,09-07-2024
+96,35,Male,Houston,56685,1,8,288,2304,46,Toys,Organic,Desktop,PayPal,0,3.8,10-02-2026
+97,58,Female,Phoenix,53874,9,18,245,4410,88,Fashion,Paid Ads,Desktop,Credit Card,0,3.4,03-03-2025
+98,30,Female,San Diego,71755,5,17,134,2278,45,Home,Organic,Mobile,Credit Card,1,3.4,22-09-2025
+99,23,Male,Dallas,116231,3,17,78,1326,26,Sports,Paid Ads,Tablet,PayPal,1,4.3,08-05-2025
+100,55,Male,Los Angeles,83947,7,12,179,2148,42,Beauty,Paid Ads,Desktop,Credit Card,0,4.4,07-06-2024
+101,46,Female,San Diego,63062,2,10,132,1320,26,Sports,Referral,Desktop,PayPal,0,2.8,16-06-2025
+102,47,Female,Houston,59257,9,21,79,1659,33,Beauty,Social Media,Desktop,UPI,0,4.4,21-12-2024
+103,44,Female,Houston,80192,6,14,41,574,11,Home,Referral,Mobile,UPI,1,2.6,05-05-2025
+104,24,Female,Houston,87372,1,10,77,770,15,Electronics,Referral,Mobile,Credit Card,0,2.9,10-06-2025
+105,56,Male,Chicago,98878,7,16,149,2384,47,Electronics,Paid Ads,Mobile,Credit Card,1,3.1,24-03-2024
+106,33,Female,Chicago,58602,4,11,276,3036,60,Electronics,Organic,Desktop,PayPal,0,4.3,16-03-2024
+107,33,Female,Los Angeles,115530,8,8,112,896,17,Beauty,Referral,Tablet,Credit Card,1,4.4,20-06-2024
+108,41,Female,Houston,74859,10,13,172,2236,44,Beauty,Organic,Desktop,UPI,0,4,25-01-2025
+109,39,Female,Los Angeles,35109,5,9,83,747,14,Toys,Referral,Tablet,Debit Card,0,2.5,03-07-2025
+110,49,Male,Dallas,36154,9,16,286,4576,91,Toys,Social Media,Tablet,UPI,0,2.8,26-05-2025
+111,39,Female,New York,78787,1,13,21,273,5,Sports,Social Media,Desktop,Debit Card,0,4.7,28-01-2026
+112,56,Male,San Diego,111061,7,8,162,1296,25,Home,Organic,Tablet,PayPal,0,2.9,05-06-2024
+113,23,Female,Houston,113976,6,13,60,780,15,Toys,Referral,Tablet,PayPal,1,4.7,05-05-2025
+114,24,Female,Los Angeles,76163,4,13,22,286,5,Toys,Social Media,Tablet,UPI,0,2.9,20-02-2026
+115,30,Female,Los Angeles,31560,3,10,138,1380,27,Toys,Paid Ads,Tablet,Debit Card,0,2.6,24-11-2025
+116,54,Male,New York,32920,3,6,112,672,13,Toys,Organic,Tablet,Debit Card,0,3,29-09-2024
+117,41,Male,Dallas,104131,5,10,39,390,7,Beauty,Paid Ads,Mobile,Debit Card,0,3.9,08-10-2024
+118,53,Female,Chicago,73585,2,15,262,3930,78,Sports,Paid Ads,Mobile,PayPal,0,4.8,01-12-2025
+119,50,Male,Dallas,57490,10,8,21,168,3,Toys,Paid Ads,Mobile,PayPal,0,4.6,29-12-2024
+120,31,Female,Chicago,100135,7,10,164,1640,32,Sports,Organic,Tablet,Credit Card,0,4.9,05-07-2024
+121,57,Female,San Jose,116475,8,11,29,319,6,Beauty,Paid Ads,Mobile,Credit Card,0,2.9,05-11-2025
+122,22,Female,Phoenix,109530,1,9,140,1260,25,Electronics,Organic,Tablet,PayPal,1,3.4,07-09-2025
+123,23,Male,Philadelphia,30619,4,9,39,351,7,Sports,Organic,Tablet,Credit Card,0,4.1,12-08-2025
+124,50,Female,Los Angeles,39200,3,3,200,600,12,Electronics,Paid Ads,Mobile,Credit Card,0,4.2,06-03-2024
+125,56,Female,Los Angeles,86503,2,10,170,1700,34,Fashion,Social Media,Tablet,UPI,0,3.3,20-05-2025
+126,38,Female,Los Angeles,53196,6,17,212,3604,72,Fashion,Organic,Desktop,UPI,1,4.9,27-11-2025
+127,57,Male,Dallas,80138,8,13,211,2743,54,Sports,Organic,Mobile,Credit Card,0,4.9,27-03-2025
+128,48,Female,Dallas,96024,4,14,151,2114,42,Home,Organic,Tablet,Credit Card,1,4.5,12-11-2024
+129,41,Male,Chicago,81924,1,11,112,1232,24,Beauty,Paid Ads,Desktop,PayPal,0,3.1,21-12-2025
+130,52,Female,Phoenix,106743,10,15,104,1560,31,Sports,Paid Ads,Mobile,UPI,1,3.8,12-06-2024
+131,22,Female,Phoenix,111889,5,9,62,558,11,Home,Referral,Tablet,Credit Card,1,4.5,28-06-2025
+132,32,Female,Houston,86088,4,18,296,5328,100,Sports,Social Media,Desktop,PayPal,0,3,07-09-2025
+133,46,Female,San Jose,102430,3,13,177,2301,46,Electronics,Paid Ads,Tablet,PayPal,1,3.2,27-02-2025
+134,48,Female,Houston,74139,10,15,260,3900,78,Beauty,Paid Ads,Tablet,Debit Card,0,3.1,26-01-2026
+135,18,Female,Dallas,51675,8,12,160,1920,38,Fashion,Organic,Tablet,Debit Card,1,4.5,18-10-2025
+136,41,Female,San Antonio,106153,9,10,87,870,17,Fashion,Organic,Desktop,PayPal,0,4.6,21-11-2025
+137,53,Male,Phoenix,95481,1,11,68,748,14,Electronics,Paid Ads,Mobile,PayPal,1,4.7,18-04-2025
+138,52,Male,Los Angeles,63755,7,12,97,1164,23,Home,Referral,Mobile,Debit Card,1,2.6,16-06-2024
+139,20,Female,Philadelphia,62117,7,14,299,4186,83,Fashion,Social Media,Tablet,Credit Card,0,2.8,09-11-2025
+140,53,Male,Los Angeles,103379,3,11,89,979,19,Beauty,Organic,Tablet,UPI,0,2.7,02-12-2024
+141,38,Male,Los Angeles,86549,8,14,77,1078,21,Toys,Organic,Tablet,Debit Card,0,4.2,27-10-2024
+142,40,Male,New York,83363,8,13,227,2951,59,Beauty,Social Media,Tablet,UPI,0,3.6,22-09-2024
+143,47,Female,Los Angeles,102982,3,18,140,2520,50,Electronics,Organic,Desktop,UPI,1,2.7,12-09-2025
+144,51,Male,Chicago,46163,1,9,277,2493,49,Beauty,Paid Ads,Tablet,Debit Card,1,3.9,28-01-2026
+145,21,Female,New York,94977,7,8,162,1296,25,Fashion,Paid Ads,Desktop,Credit Card,1,4.6,02-04-2025
+146,52,Male,Phoenix,106957,8,12,86,1032,20,Home,Paid Ads,Tablet,Debit Card,1,3.3,30-01-2026
+147,52,Female,Philadelphia,102909,4,13,183,2379,47,Toys,Organic,Tablet,PayPal,1,2.8,20-09-2025
+148,58,Female,Houston,53429,9,14,44,616,12,Fashion,Organic,Tablet,Debit Card,0,2.7,26-11-2025
+149,49,Female,Los Angeles,48268,2,14,24,336,6,Sports,Referral,Tablet,Credit Card,1,3.6,20-02-2025
+150,40,Female,New York,89474,9,8,209,1672,33,Beauty,Social Media,Tablet,UPI,0,2.9,04-02-2026
+151,34,Male,Houston,73108,7,9,143,1287,25,Toys,Social Media,Mobile,PayPal,1,4.3,11-09-2025
+152,24,Male,Phoenix,56715,6,15,81,1215,24,Fashion,Referral,Desktop,UPI,0,2.5,10-06-2024
+153,56,Female,New York,90428,5,16,200,3200,64,Home,Organic,Tablet,PayPal,1,4.9,16-04-2025
+154,38,Female,San Jose,59300,10,9,246,2214,44,Sports,Paid Ads,Mobile,Credit Card,0,3.5,29-06-2025
+155,58,Female,San Diego,60911,1,16,116,1856,37,Sports,Social Media,Tablet,PayPal,1,2.6,04-09-2024
+156,51,Male,San Antonio,58602,6,13,192,2496,49,Sports,Social Media,Mobile,UPI,0,4.3,22-08-2024
+157,40,Female,San Jose,93530,1,6,171,1026,20,Toys,Social Media,Tablet,UPI,0,3.8,29-06-2025
+158,32,Female,New York,94027,3,8,27,216,4,Electronics,Organic,Desktop,PayPal,0,2.6,19-06-2025
+159,20,Male,Los Angeles,107360,4,13,188,2444,48,Fashion,Organic,Tablet,UPI,1,3.7,31-07-2025
+160,19,Female,Los Angeles,89765,5,18,245,4410,88,Electronics,Organic,Tablet,Debit Card,0,3.3,20-03-2024
+161,42,Female,San Antonio,107425,6,14,132,1848,36,Electronics,Social Media,Mobile,PayPal,1,3.2,22-08-2024
+162,35,Male,Dallas,58044,5,13,243,3159,63,Toys,Social Media,Mobile,Credit Card,0,3.9,11-08-2024
+163,35,Female,Philadelphia,43057,5,14,114,1596,31,Home,Organic,Mobile,Credit Card,0,2.9,27-12-2025
+164,20,Male,San Diego,38894,6,13,127,1651,33,Fashion,Paid Ads,Mobile,UPI,1,4.4,04-09-2025
+165,22,Male,Los Angeles,79666,1,9,29,261,5,Electronics,Social Media,Mobile,Credit Card,1,4.5,10-06-2025
+166,53,Male,Dallas,77701,10,15,228,3420,68,Beauty,Referral,Tablet,PayPal,0,4.4,18-10-2025
+167,23,Female,Phoenix,42087,3,11,43,473,9,Toys,Social Media,Tablet,Credit Card,0,2.8,14-07-2024
+168,27,Female,Chicago,94429,4,8,292,2336,46,Sports,Social Media,Desktop,PayPal,0,3.7,03-02-2026
+169,21,Female,Phoenix,66727,8,12,171,2052,41,Beauty,Social Media,Tablet,UPI,0,4.5,30-12-2025
+170,53,Male,Dallas,35469,7,15,135,2025,40,Beauty,Paid Ads,Mobile,Credit Card,0,4.5,11-08-2024
+171,34,Male,Dallas,75253,4,12,217,2604,52,Fashion,Social Media,Mobile,Credit Card,1,4.4,05-08-2024
+172,27,Female,San Jose,64865,3,16,70,1120,22,Home,Organic,Mobile,UPI,1,3.1,02-05-2024
+173,54,Male,San Diego,72963,1,14,145,2030,40,Electronics,Social Media,Desktop,Credit Card,1,3.7,02-02-2025
+174,48,Male,San Antonio,97155,8,12,125,1500,30,Beauty,Paid Ads,Desktop,UPI,0,3.2,13-06-2025
+175,33,Female,Dallas,39833,9,15,247,3705,74,Sports,Social Media,Desktop,Credit Card,0,2.7,11-06-2025
+176,44,Female,Dallas,44289,8,12,218,2616,52,Sports,Paid Ads,Mobile,Debit Card,0,4.6,06-02-2025
+177,22,Female,Dallas,64521,5,13,180,2340,46,Toys,Referral,Mobile,Credit Card,0,3.1,13-04-2025
+178,41,Female,Los Angeles,37521,10,12,196,2352,47,Electronics,Paid Ads,Mobile,Credit Card,0,2.7,18-06-2025
+179,19,Male,San Diego,44357,9,14,144,2016,40,Toys,Social Media,Tablet,Debit Card,1,3.2,03-06-2024
+180,52,Female,Houston,97263,3,15,296,4440,88,Toys,Referral,Mobile,PayPal,0,3.3,26-06-2025
+181,39,Female,New York,44939,9,13,85,1105,22,Fashion,Social Media,Tablet,Debit Card,0,3.7,12-01-2026
+182,56,Female,San Diego,78563,7,16,216,3456,69,Beauty,Social Media,Mobile,UPI,1,3,30-08-2025
+183,54,Female,Philadelphia,37239,7,13,257,3341,66,Beauty,Paid Ads,Tablet,UPI,0,2.9,21-02-2026
+184,20,Male,Phoenix,41116,3,17,239,4063,81,Beauty,Paid Ads,Desktop,Debit Card,0,3,05-02-2026
+185,36,Male,Phoenix,32591,9,15,35,525,10,Toys,Organic,Desktop,UPI,1,3.7,23-06-2025
+186,45,Female,Los Angeles,31125,10,11,44,484,9,Fashion,Paid Ads,Desktop,Credit Card,0,2.6,29-06-2024
+187,52,Female,Dallas,45036,9,16,230,3680,73,Sports,Social Media,Desktop,Debit Card,1,5,27-03-2024
+188,20,Female,Los Angeles,30587,10,9,237,2133,42,Electronics,Referral,Tablet,Debit Card,0,3.1,07-11-2024
+189,28,Male,San Diego,114246,6,16,231,3696,73,Beauty,Referral,Tablet,Debit Card,1,2.8,04-06-2025
+190,26,Male,Philadelphia,68547,1,16,210,3360,67,Sports,Referral,Mobile,Credit Card,0,4.7,27-12-2025
+191,31,Male,Los Angeles,85267,1,14,244,3416,68,Toys,Paid Ads,Desktop,UPI,1,2.5,27-07-2024
+192,25,Female,San Jose,45037,3,11,103,1133,22,Toys,Referral,Desktop,UPI,0,3.6,09-06-2025
+193,36,Female,San Diego,45282,3,14,140,1960,39,Toys,Organic,Mobile,UPI,0,4.7,07-04-2025
+194,57,Male,Houston,73472,9,10,246,2460,49,Home,Social Media,Desktop,Credit Card,0,4.3,06-05-2024
+195,39,Female,Los Angeles,93095,7,12,177,2124,42,Sports,Referral,Mobile,Credit Card,0,3.2,16-01-2026
+196,37,Male,Los Angeles,74900,3,12,220,2640,52,Electronics,Social Media,Mobile,PayPal,1,4.2,11-06-2024
+197,57,Male,Chicago,36581,9,10,251,2510,50,Beauty,Referral,Tablet,UPI,1,3.6,06-08-2025
+198,45,Female,Dallas,117445,3,13,276,3588,71,Fashion,Organic,Mobile,UPI,0,3.5,16-09-2024
+199,23,Female,Chicago,34378,8,9,112,1008,20,Sports,Social Media,Mobile,Credit Card,0,4.1,11-01-2026
+200,55,Female,San Jose,73056,1,9,109,981,19,Home,Paid Ads,Desktop,Credit Card,0,3.6,18-07-2024
+201,26,Male,San Antonio,35463,5,10,296,2960,59,Sports,Social Media,Tablet,Debit Card,0,3.8,06-04-2024
+202,36,Female,New York,51386,1,11,91,1001,20,Sports,Paid Ads,Tablet,UPI,1,4.3,18-12-2025
+203,22,Female,Los Angeles,67383,9,13,234,3042,60,Beauty,Paid Ads,Mobile,PayPal,0,4.7,29-08-2024
+204,53,Male,Dallas,46977,5,7,103,721,14,Fashion,Referral,Mobile,Credit Card,1,3.5,26-07-2024
+205,27,Male,Chicago,81649,3,13,229,2977,59,Beauty,Paid Ads,Tablet,Credit Card,0,2.8,23-04-2025
+206,19,Male,New York,60373,3,12,100,1200,24,Sports,Referral,Desktop,Credit Card,1,3.8,21-04-2025
+207,38,Male,San Antonio,67437,1,9,296,2664,53,Electronics,Organic,Desktop,Debit Card,1,3.6,25-06-2024
+208,47,Female,San Jose,66027,2,11,191,2101,42,Home,Organic,Desktop,UPI,1,3.6,19-08-2025
+209,50,Male,Houston,75734,2,8,215,1720,34,Home,Organic,Desktop,UPI,0,4.4,08-01-2026
+210,35,Female,Phoenix,32011,3,10,145,1450,28,Fashion,Social Media,Desktop,Credit Card,0,2.8,04-02-2025
+211,48,Male,Philadelphia,78515,1,8,86,688,13,Home,Social Media,Tablet,Debit Card,1,3.5,14-06-2025
+212,23,Male,San Antonio,109674,5,10,144,1440,28,Toys,Social Media,Desktop,UPI,0,3.4,09-02-2026
+213,26,Female,New York,48800,4,12,61,732,14,Sports,Paid Ads,Tablet,UPI,1,4.3,13-12-2025
+214,38,Female,Houston,104027,7,12,299,3588,71,Home,Organic,Mobile,PayPal,1,2.9,05-01-2025
+215,35,Female,Philadelphia,104965,9,15,27,405,8,Home,Referral,Tablet,Credit Card,0,3.7,24-04-2025
+216,51,Male,New York,54842,6,12,168,2016,40,Beauty,Organic,Desktop,Debit Card,1,3.9,02-06-2025
+217,29,Male,San Antonio,43893,1,19,127,2413,48,Fashion,Social Media,Desktop,PayPal,0,4.7,30-06-2025
+218,50,Male,Los Angeles,109063,7,11,268,2948,58,Beauty,Referral,Tablet,PayPal,0,4.3,28-06-2025
+219,21,Male,San Diego,71862,3,8,135,1080,21,Home,Referral,Desktop,PayPal,0,4.1,06-01-2025
+220,22,Male,Los Angeles,55518,7,14,73,1022,20,Electronics,Social Media,Tablet,UPI,0,4.1,18-11-2024
+221,47,Male,New York,116072,3,16,154,2464,49,Sports,Organic,Mobile,UPI,0,3.4,03-04-2024
+222,26,Female,Houston,41390,1,16,123,1968,39,Toys,Referral,Desktop,PayPal,0,4.3,13-01-2026
+223,52,Female,San Antonio,54322,2,9,32,288,5,Home,Social Media,Tablet,Debit Card,1,3,24-07-2024
+224,44,Male,Chicago,53782,5,16,177,2832,56,Electronics,Organic,Desktop,PayPal,1,4,16-08-2025
+225,34,Female,Los Angeles,46566,7,16,73,1168,23,Beauty,Paid Ads,Mobile,UPI,0,4.2,06-06-2024
+226,32,Female,San Diego,76101,4,8,31,248,4,Fashion,Referral,Tablet,Credit Card,0,3.2,03-10-2025
+227,29,Male,Philadelphia,78688,9,4,228,912,18,Sports,Social Media,Mobile,UPI,0,4.6,29-03-2025
+228,46,Male,Chicago,71627,9,10,181,1810,36,Sports,Referral,Mobile,Debit Card,0,4.5,14-06-2024
+229,29,Male,Phoenix,62441,7,12,236,2832,56,Sports,Referral,Mobile,Credit Card,1,2.5,23-02-2024
+230,50,Male,Philadelphia,119963,1,9,230,2070,41,Beauty,Social Media,Mobile,PayPal,1,2.6,10-03-2024
+231,35,Female,Philadelphia,35355,9,11,50,550,11,Toys,Organic,Mobile,PayPal,1,3.4,14-12-2024
+232,51,Male,San Diego,115896,8,18,22,396,7,Toys,Paid Ads,Mobile,UPI,0,4.1,28-07-2024
+233,38,Female,San Diego,63002,3,15,72,1080,21,Fashion,Paid Ads,Mobile,UPI,1,3.1,01-02-2025
+234,31,Male,Dallas,61881,3,12,36,432,8,Beauty,Paid Ads,Desktop,Debit Card,1,3.2,07-11-2025
+235,18,Male,Philadelphia,50307,7,7,206,1442,28,Sports,Organic,Mobile,PayPal,0,3.4,26-08-2024
+236,24,Female,Chicago,81955,9,11,62,682,13,Electronics,Social Media,Tablet,UPI,1,3.9,16-08-2025
+237,50,Male,Los Angeles,57606,9,10,78,780,15,Fashion,Social Media,Mobile,PayPal,0,2.7,01-01-2025
+238,40,Male,San Jose,79067,10,9,162,1458,29,Beauty,Referral,Desktop,Credit Card,0,4.4,08-08-2024
+239,43,Male,New York,76473,3,8,87,696,13,Electronics,Referral,Desktop,UPI,0,4.2,19-03-2024
+240,48,Male,Los Angeles,110360,2,12,267,3204,64,Sports,Paid Ads,Mobile,Debit Card,0,4.9,16-03-2024
+241,22,Male,San Diego,94805,6,15,242,3630,72,Beauty,Organic,Tablet,UPI,0,2.9,13-03-2024
+242,50,Female,San Diego,54272,2,16,89,1424,28,Home,Paid Ads,Desktop,Credit Card,0,4.1,20-09-2024
+243,29,Male,Los Angeles,117178,5,11,173,1903,38,Electronics,Referral,Tablet,Credit Card,0,4.6,15-06-2025
+244,33,Female,New York,85745,2,15,27,405,8,Home,Referral,Mobile,PayPal,1,3.3,22-06-2024
+245,37,Female,Phoenix,117893,6,13,55,715,14,Fashion,Social Media,Desktop,PayPal,0,4.8,03-01-2026
+246,25,Female,San Diego,104671,6,11,160,1760,35,Home,Paid Ads,Tablet,Credit Card,0,4.8,24-06-2024
+247,49,Male,San Jose,83574,1,13,113,1469,29,Toys,Organic,Desktop,Credit Card,1,4.9,16-06-2025
+248,46,Female,Houston,105731,5,10,133,1330,26,Fashion,Referral,Tablet,Credit Card,1,4.7,02-02-2025
+249,58,Male,Chicago,64681,1,10,216,2160,43,Beauty,Paid Ads,Tablet,PayPal,1,3.9,07-04-2024
+250,24,Female,Houston,119390,7,19,151,2869,57,Sports,Organic,Mobile,UPI,1,4.7,10-10-2024
+251,36,Male,Houston,112534,9,10,214,2140,42,Fashion,Organic,Desktop,UPI,0,4.6,06-08-2025
+252,20,Female,Phoenix,46673,9,12,135,1620,32,Toys,Organic,Mobile,Credit Card,0,2.6,11-02-2025
+253,23,Male,Philadelphia,64148,9,23,104,2392,47,Beauty,Social Media,Desktop,PayPal,0,3.1,13-11-2024
+254,53,Male,Chicago,90142,9,16,49,784,15,Toys,Organic,Desktop,UPI,0,4.3,21-12-2025
+255,53,Female,San Jose,57127,6,11,260,2860,57,Home,Paid Ads,Tablet,Debit Card,0,3.5,04-09-2025
+256,26,Male,Phoenix,104704,10,12,67,804,16,Toys,Organic,Mobile,PayPal,0,4.3,30-11-2024
+257,42,Male,Dallas,32610,4,8,217,1736,34,Electronics,Paid Ads,Tablet,Credit Card,1,4.2,05-06-2024
+258,46,Female,New York,114040,6,16,95,1520,30,Electronics,Referral,Desktop,PayPal,1,3.6,28-10-2025
+259,53,Male,San Antonio,80719,4,11,97,1067,21,Beauty,Social Media,Tablet,Credit Card,1,4.9,03-04-2025
+260,36,Female,Chicago,100533,9,12,212,2544,50,Home,Social Media,Tablet,PayPal,0,3.7,01-12-2025
+261,27,Male,San Diego,86408,4,14,21,294,5,Toys,Social Media,Tablet,PayPal,1,4.2,22-09-2025
+262,33,Male,Phoenix,41254,3,13,143,1859,37,Home,Social Media,Mobile,Debit Card,0,2.5,09-07-2025
+263,50,Female,San Antonio,40808,5,10,38,380,7,Beauty,Organic,Mobile,UPI,1,2.7,03-12-2024
+264,24,Male,San Jose,111486,7,8,267,2136,42,Electronics,Organic,Desktop,Debit Card,1,3.3,07-12-2025
+265,46,Male,New York,85312,2,22,188,4136,82,Home,Organic,Tablet,PayPal,1,4.3,18-06-2024
+266,20,Female,San Antonio,75833,2,12,143,1716,34,Home,Organic,Tablet,Debit Card,0,4.2,25-08-2025
+267,37,Male,Los Angeles,111882,9,6,103,618,12,Toys,Referral,Desktop,PayPal,0,3.9,19-10-2024
+268,44,Female,Houston,33849,9,14,252,3528,70,Electronics,Referral,Desktop,Credit Card,0,3.1,01-08-2024
+269,27,Male,New York,92260,6,19,267,5073,100,Electronics,Organic,Tablet,Credit Card,0,4.3,21-12-2025
+270,26,Female,Philadelphia,95618,1,9,65,585,11,Electronics,Paid Ads,Desktop,PayPal,0,4.2,15-02-2025
+271,52,Male,San Jose,80931,5,18,290,5220,100,Home,Social Media,Mobile,PayPal,1,3.8,15-07-2025
+272,58,Male,New York,105945,2,14,264,3696,73,Electronics,Paid Ads,Mobile,PayPal,1,4.3,30-07-2024
+273,51,Female,Los Angeles,40442,2,15,35,525,10,Toys,Referral,Tablet,UPI,0,4.9,02-04-2024
+274,30,Female,New York,106162,10,12,110,1320,26,Electronics,Organic,Desktop,PayPal,0,2.7,22-04-2024
+275,42,Male,Philadelphia,112214,1,16,206,3296,65,Fashion,Social Media,Desktop,UPI,0,4.1,26-01-2026
+276,54,Female,San Antonio,77195,2,16,158,2528,50,Sports,Referral,Desktop,UPI,0,3,15-08-2024
+277,21,Male,Phoenix,61707,1,15,261,3915,78,Electronics,Paid Ads,Mobile,Debit Card,0,4.8,15-12-2025
+278,24,Female,San Jose,94450,4,11,148,1628,32,Electronics,Organic,Mobile,PayPal,0,3.1,29-05-2024
+279,41,Female,San Antonio,101832,7,9,55,495,9,Electronics,Organic,Mobile,Credit Card,1,3.4,30-08-2025
+280,26,Female,San Antonio,47413,3,16,137,2192,43,Home,Paid Ads,Mobile,PayPal,1,4.7,30-12-2024
+281,39,Female,Phoenix,89848,5,11,131,1441,28,Fashion,Organic,Desktop,UPI,0,2.9,06-03-2025
+282,35,Female,San Jose,43917,6,12,145,1740,34,Fashion,Referral,Tablet,UPI,0,4.7,17-05-2025
+283,51,Female,San Diego,76313,7,5,166,830,16,Home,Organic,Mobile,PayPal,0,4.4,18-10-2025
+284,50,Female,Chicago,114925,1,12,194,2328,46,Sports,Paid Ads,Mobile,Debit Card,1,3,07-09-2025
+285,46,Male,New York,42207,1,12,26,312,6,Toys,Organic,Tablet,Credit Card,1,4.9,14-08-2024
+286,20,Female,San Diego,70142,5,9,163,1467,29,Electronics,Organic,Mobile,Debit Card,0,4.3,24-01-2026
+287,33,Female,Dallas,57048,3,7,218,1526,30,Sports,Referral,Tablet,PayPal,0,3,27-04-2024
+288,47,Female,Houston,64872,8,9,25,225,4,Electronics,Organic,Mobile,Debit Card,0,3.9,02-03-2025
+289,19,Male,San Antonio,36476,6,13,22,286,5,Toys,Social Media,Tablet,UPI,0,3.4,06-06-2024
+290,28,Male,Dallas,38026,2,14,178,2492,49,Beauty,Social Media,Mobile,Debit Card,1,4.4,18-05-2025
+291,54,Male,Dallas,98975,7,14,230,3220,64,Beauty,Paid Ads,Mobile,Debit Card,1,4.4,05-04-2024
+292,34,Female,Philadelphia,106502,3,11,264,2904,58,Home,Organic,Mobile,PayPal,1,2.9,07-02-2026
+293,19,Male,San Jose,97165,10,12,100,1200,24,Fashion,Paid Ads,Mobile,UPI,0,2.8,24-01-2025
+294,55,Male,San Jose,106280,3,19,148,2812,56,Toys,Organic,Tablet,UPI,0,4.6,17-03-2025
+295,24,Male,Philadelphia,103493,10,8,223,1784,35,Toys,Organic,Mobile,UPI,0,3,09-07-2025
+296,52,Male,San Diego,101246,5,13,195,2535,50,Sports,Referral,Mobile,Debit Card,0,4.7,16-10-2024
+297,35,Male,San Jose,111159,1,13,195,2535,50,Home,Organic,Tablet,PayPal,1,4.8,07-01-2025
+298,48,Female,New York,58302,1,16,105,1680,33,Beauty,Social Media,Tablet,PayPal,0,4.4,07-12-2025
+299,52,Male,Los Angeles,76287,5,16,44,704,14,Fashion,Organic,Tablet,Credit Card,0,4.1,16-08-2024
+300,37,Female,New York,114178,7,10,70,700,14,Fashion,Social Media,Desktop,Credit Card,0,3.7,05-06-2024
+301,31,Male,Dallas,44026,2,10,94,940,18,Electronics,Paid Ads,Desktop,Debit Card,0,3.8,10-10-2025
+302,36,Female,Los Angeles,94575,7,13,233,3029,60,Beauty,Paid Ads,Mobile,PayPal,0,3.6,02-12-2024
+303,32,Male,Philadelphia,116795,8,12,113,1356,27,Fashion,Social Media,Desktop,Debit Card,1,4,14-11-2025
+304,28,Female,Houston,54519,8,13,48,624,12,Beauty,Referral,Desktop,Debit Card,0,2.7,04-09-2024
+305,24,Male,San Antonio,112895,8,10,198,1980,39,Electronics,Social Media,Tablet,PayPal,0,4.7,03-04-2024
+306,47,Female,Chicago,61085,4,10,287,2870,57,Toys,Referral,Desktop,Debit Card,1,4.6,13-10-2024
+307,24,Male,Houston,65179,10,9,235,2115,42,Home,Organic,Desktop,Credit Card,0,2.9,24-06-2025
+308,57,Female,San Jose,84567,8,8,211,1688,33,Beauty,Organic,Mobile,Credit Card,0,3.1,04-09-2024
+309,49,Female,Phoenix,34131,5,15,297,4455,89,Toys,Paid Ads,Desktop,UPI,0,3.3,13-08-2025
+310,52,Female,Dallas,115103,7,6,125,750,15,Fashion,Referral,Mobile,PayPal,0,3.4,11-05-2024
+311,59,Male,Philadelphia,39486,7,17,238,4046,80,Home,Social Media,Tablet,Credit Card,0,3.7,14-09-2025
+312,52,Male,New York,50527,2,7,206,1442,28,Electronics,Organic,Desktop,PayPal,1,2.8,14-02-2025
+313,30,Male,Philadelphia,110059,10,17,58,986,19,Toys,Social Media,Mobile,Debit Card,1,4.4,20-08-2024
+314,20,Female,Chicago,119499,3,10,219,2190,43,Fashion,Referral,Tablet,UPI,0,3.4,23-06-2024
+315,48,Male,Philadelphia,79500,5,8,273,2184,43,Beauty,Organic,Mobile,PayPal,0,3.8,04-10-2025
+316,59,Male,San Antonio,103648,4,11,292,3212,64,Toys,Social Media,Tablet,Debit Card,0,3.1,28-01-2026
+317,30,Female,Los Angeles,101128,7,12,32,384,7,Sports,Referral,Mobile,Debit Card,1,3.5,20-03-2024
+318,38,Male,Phoenix,80799,7,14,162,2268,45,Beauty,Paid Ads,Mobile,Credit Card,1,3.8,21-06-2025
+319,26,Male,Dallas,64485,1,15,227,3405,68,Electronics,Social Media,Tablet,Debit Card,0,2.6,23-10-2025
+320,29,Male,Phoenix,82265,3,15,292,4380,87,Toys,Paid Ads,Desktop,Debit Card,0,3.9,24-09-2025
+321,54,Male,Chicago,55068,3,12,246,2952,59,Fashion,Referral,Tablet,PayPal,0,3.2,03-12-2025
+322,45,Male,Houston,40234,1,14,47,658,13,Beauty,Paid Ads,Desktop,Credit Card,1,4.9,27-12-2024
+323,53,Female,Chicago,81257,4,14,247,3458,69,Toys,Social Media,Tablet,UPI,1,5,14-10-2025
+324,18,Male,San Diego,31961,2,11,156,1716,34,Toys,Organic,Mobile,PayPal,0,4.3,26-07-2024
+325,51,Male,San Jose,35698,10,17,29,493,9,Home,Social Media,Mobile,PayPal,0,3.2,14-10-2024
+326,52,Female,San Antonio,91899,9,14,181,2534,50,Beauty,Referral,Tablet,UPI,1,3.4,15-07-2024
+327,18,Male,Houston,56177,3,10,135,1350,27,Toys,Organic,Tablet,Debit Card,0,4.3,14-01-2026
+328,32,Male,San Antonio,55901,9,8,89,712,14,Beauty,Referral,Desktop,Credit Card,1,3.4,16-12-2024
+329,45,Male,San Diego,43026,6,12,59,708,14,Home,Organic,Mobile,Debit Card,0,3.3,05-02-2026
+330,54,Male,San Antonio,50922,6,9,259,2331,46,Fashion,Organic,Tablet,UPI,1,4.2,01-10-2025
+331,45,Male,Philadelphia,99497,9,9,50,450,9,Sports,Referral,Mobile,Credit Card,0,4.2,29-04-2024
+332,59,Female,San Jose,102373,10,12,27,324,6,Sports,Organic,Desktop,Credit Card,0,2.6,25-04-2024
+333,31,Male,New York,116444,6,13,91,1183,23,Sports,Social Media,Tablet,UPI,1,4.6,21-11-2025
+334,23,Female,Philadelphia,43269,10,14,45,630,12,Home,Social Media,Desktop,Debit Card,1,3.3,14-06-2025
+335,21,Male,New York,35368,7,11,38,418,8,Home,Referral,Tablet,UPI,1,2.6,16-09-2024
+336,57,Male,Houston,76999,1,11,147,1617,32,Home,Social Media,Desktop,UPI,1,2.7,17-02-2026
+337,43,Female,San Diego,35313,3,9,190,1710,34,Beauty,Referral,Tablet,Debit Card,0,3.3,25-03-2025
+338,33,Female,San Antonio,83218,10,10,240,2400,48,Sports,Paid Ads,Desktop,UPI,0,3.6,02-05-2024
+339,21,Male,San Jose,33164,7,12,290,3480,69,Beauty,Paid Ads,Tablet,PayPal,0,3.8,17-04-2024
+340,20,Male,Houston,33722,1,14,233,3262,65,Toys,Social Media,Tablet,PayPal,1,3.6,20-12-2024
+341,30,Female,Chicago,57386,10,14,132,1848,36,Sports,Referral,Mobile,PayPal,0,3,11-01-2026
+342,40,Female,San Jose,107853,9,8,44,352,7,Toys,Referral,Tablet,Credit Card,1,4.3,17-01-2025
+343,42,Female,San Antonio,55933,3,13,118,1534,30,Electronics,Social Media,Desktop,UPI,0,4.6,10-11-2025
+344,19,Male,San Jose,77947,9,11,291,3201,64,Toys,Organic,Tablet,PayPal,0,3.5,24-06-2024
+345,59,Female,San Diego,46459,4,9,91,819,16,Beauty,Social Media,Mobile,Debit Card,1,3.4,10-11-2024
+346,34,Male,Phoenix,76142,1,9,109,981,19,Toys,Referral,Desktop,Debit Card,0,3.6,07-05-2024
+347,24,Male,San Antonio,82347,5,14,294,4116,82,Beauty,Organic,Mobile,Debit Card,0,3,24-05-2025
+348,53,Male,Philadelphia,33969,6,7,49,343,6,Sports,Social Media,Desktop,UPI,0,4.2,02-10-2025
+349,53,Male,Houston,75896,7,7,135,945,18,Fashion,Paid Ads,Mobile,UPI,1,4.6,13-04-2025
+350,40,Male,Houston,53165,5,6,96,576,11,Home,Paid Ads,Desktop,PayPal,1,2.9,06-10-2025
+351,52,Female,Los Angeles,106216,5,16,200,3200,64,Fashion,Social Media,Mobile,UPI,1,3.6,08-01-2026
+352,33,Female,New York,119389,7,16,23,368,7,Electronics,Referral,Mobile,PayPal,1,3.8,21-06-2024
+353,45,Female,Los Angeles,51684,10,15,279,4185,83,Home,Referral,Mobile,PayPal,0,2.8,12-01-2026
+354,29,Male,San Jose,79346,10,15,201,3015,60,Beauty,Paid Ads,Mobile,Credit Card,0,3.2,31-01-2025
+355,58,Male,Dallas,88741,10,9,256,2304,46,Fashion,Social Media,Desktop,Credit Card,1,4.6,18-09-2025
+356,19,Female,New York,35543,9,12,245,2940,58,Home,Social Media,Desktop,PayPal,1,3.7,17-03-2024
+357,19,Male,San Diego,56270,9,21,31,651,13,Sports,Paid Ads,Desktop,Debit Card,0,2.9,07-03-2024
+358,54,Male,Houston,119745,8,11,55,605,12,Electronics,Social Media,Mobile,Credit Card,1,4.3,12-08-2024
+359,53,Male,San Diego,91587,2,13,142,1846,36,Home,Paid Ads,Tablet,PayPal,0,4.8,09-03-2024
+360,31,Male,Dallas,108533,1,14,218,3052,61,Toys,Referral,Desktop,Credit Card,0,4.5,03-02-2026
+361,44,Male,Chicago,112291,7,14,62,868,17,Toys,Paid Ads,Desktop,PayPal,0,4.3,03-10-2025
+362,49,Female,Dallas,96471,4,13,114,1482,29,Electronics,Social Media,Tablet,UPI,0,4,15-09-2024
+363,28,Male,New York,77014,6,11,237,2607,52,Fashion,Organic,Tablet,Credit Card,0,4.7,13-06-2024
+364,34,Female,Houston,37493,8,10,150,1500,30,Sports,Social Media,Mobile,PayPal,1,4.2,24-04-2024
+365,21,Male,Philadelphia,46626,6,15,105,1575,31,Home,Referral,Desktop,Debit Card,0,3.7,25-09-2025
+366,43,Male,San Jose,74950,9,6,58,348,6,Fashion,Referral,Tablet,Debit Card,1,3.7,24-12-2025
+367,51,Male,Houston,72431,6,9,239,2151,43,Toys,Referral,Tablet,PayPal,1,4.5,20-01-2026
+368,56,Female,Phoenix,90739,9,14,159,2226,44,Electronics,Organic,Mobile,Credit Card,0,4.8,30-06-2024
+369,21,Male,Dallas,39290,1,14,234,3276,65,Fashion,Organic,Desktop,Credit Card,1,3.3,18-02-2026
+370,36,Female,San Diego,37008,4,8,292,2336,46,Electronics,Referral,Desktop,Debit Card,0,2.8,09-10-2025
+371,55,Male,San Antonio,41350,9,19,229,4351,87,Sports,Paid Ads,Desktop,PayPal,0,3,26-07-2025
+372,50,Male,San Antonio,35867,5,14,151,2114,42,Toys,Paid Ads,Mobile,Credit Card,0,2.6,14-07-2024
+373,52,Female,Chicago,112839,3,10,51,510,10,Home,Referral,Tablet,UPI,1,3.5,24-02-2024
+374,54,Female,Houston,109376,7,13,177,2301,46,Fashion,Paid Ads,Mobile,PayPal,0,4.5,12-02-2026
+375,24,Male,Phoenix,103984,10,11,171,1881,37,Toys,Organic,Desktop,Credit Card,0,3.8,11-01-2025
+376,27,Male,Phoenix,86548,6,13,265,3445,68,Fashion,Social Media,Tablet,Credit Card,0,4.5,14-04-2024
+377,35,Female,Houston,48690,7,17,205,3485,69,Home,Paid Ads,Mobile,Debit Card,0,2.6,06-01-2026
+378,46,Female,San Antonio,47857,6,12,104,1248,24,Beauty,Social Media,Tablet,PayPal,0,4.9,01-05-2024
+379,26,Male,Chicago,102095,5,13,270,3510,70,Home,Paid Ads,Mobile,PayPal,1,2.7,07-10-2024
+380,52,Female,Chicago,41781,6,12,27,324,6,Sports,Referral,Mobile,UPI,1,2.9,29-11-2024
+381,40,Female,San Diego,41279,3,17,34,578,11,Electronics,Organic,Mobile,Debit Card,1,4.6,12-11-2024
+382,33,Female,Dallas,39837,8,10,31,310,6,Beauty,Organic,Tablet,PayPal,1,4.5,19-07-2024
+383,23,Male,Dallas,109854,5,19,160,3040,60,Beauty,Referral,Tablet,UPI,0,3.2,13-01-2026
+384,26,Female,Philadelphia,60951,4,13,268,3484,69,Toys,Organic,Mobile,Credit Card,0,4.9,08-12-2025
+385,42,Female,Dallas,75203,6,13,194,2522,50,Home,Referral,Tablet,PayPal,1,2.7,09-05-2024
+386,43,Male,San Diego,69661,6,14,212,2968,59,Toys,Referral,Desktop,UPI,0,4.9,22-05-2025
+387,45,Female,Chicago,113232,3,12,145,1740,34,Toys,Organic,Desktop,PayPal,0,4.2,10-11-2025
+388,39,Female,San Diego,118603,3,11,255,2805,56,Sports,Organic,Mobile,Credit Card,1,3.9,04-04-2024
+389,23,Male,New York,34758,3,14,177,2478,49,Sports,Organic,Tablet,PayPal,1,3.4,28-04-2024
+390,44,Male,Phoenix,51292,2,9,153,1377,27,Fashion,Social Media,Mobile,Credit Card,0,4.4,30-04-2024
+391,40,Female,Dallas,91075,5,18,47,846,16,Toys,Referral,Mobile,Credit Card,0,3.2,01-06-2025
+392,55,Male,Houston,30901,2,19,244,4636,92,Sports,Social Media,Mobile,PayPal,0,4.1,27-05-2025
+393,18,Male,New York,52499,9,13,230,2990,59,Fashion,Referral,Mobile,Debit Card,1,3.2,04-12-2024
+394,33,Female,Dallas,54299,8,9,64,576,11,Home,Referral,Tablet,Debit Card,0,3.6,14-02-2025
+395,27,Female,San Diego,77645,9,9,263,2367,47,Electronics,Organic,Mobile,Debit Card,0,4,11-02-2026
+396,21,Female,Houston,57856,3,13,280,3640,72,Fashion,Organic,Desktop,Credit Card,0,4.2,30-09-2025
+397,48,Female,San Diego,30066,9,7,183,1281,25,Electronics,Social Media,Tablet,Debit Card,0,4.2,29-04-2024
+398,40,Male,Dallas,72598,8,15,176,2640,52,Fashion,Social Media,Tablet,Credit Card,0,4.5,21-12-2025
+399,19,Male,Philadelphia,33084,10,13,89,1157,23,Beauty,Social Media,Mobile,PayPal,0,2.9,24-07-2024
+400,39,Female,Houston,69867,3,15,54,810,16,Toys,Referral,Mobile,Credit Card,1,3,02-04-2024
+401,33,Male,San Antonio,117029,8,16,99,1584,31,Home,Paid Ads,Desktop,UPI,1,4.7,24-01-2025
+402,42,Female,San Jose,91957,8,7,145,1015,20,Home,Paid Ads,Desktop,UPI,0,3.8,25-09-2025
+403,20,Female,Philadelphia,43386,6,6,241,1446,28,Home,Referral,Mobile,Credit Card,1,4.7,18-10-2024
+404,18,Male,Philadelphia,32716,8,14,265,3710,74,Beauty,Referral,Mobile,PayPal,0,4.6,09-12-2025
+405,28,Male,Phoenix,68185,5,13,184,2392,47,Home,Social Media,Tablet,Debit Card,0,4,23-11-2025
+406,52,Male,Philadelphia,103843,1,10,69,690,13,Home,Referral,Desktop,UPI,0,3.3,13-11-2024
+407,25,Male,Los Angeles,83634,9,18,53,954,19,Fashion,Paid Ads,Tablet,Credit Card,0,3.4,28-09-2024
+408,48,Male,Phoenix,33775,9,9,108,972,19,Toys,Referral,Mobile,UPI,0,3.5,05-01-2026
+409,34,Female,Chicago,92287,10,14,100,1400,28,Electronics,Organic,Mobile,Credit Card,1,3.6,29-03-2024
+410,59,Female,New York,87608,4,12,181,2172,43,Fashion,Referral,Mobile,PayPal,0,2.8,27-09-2024
+411,50,Female,Dallas,30215,4,12,190,2280,45,Beauty,Social Media,Desktop,Debit Card,1,4.3,01-10-2024
+412,33,Male,New York,34897,7,15,132,1980,39,Sports,Referral,Tablet,Credit Card,0,4.5,04-03-2024
+413,59,Male,San Diego,76032,2,16,269,4304,86,Fashion,Paid Ads,Tablet,UPI,0,2.6,19-05-2024
+414,23,Male,San Diego,67333,10,16,28,448,8,Home,Paid Ads,Tablet,Debit Card,0,3.5,10-06-2024
+415,25,Female,Chicago,110960,6,9,102,918,18,Toys,Paid Ads,Mobile,Debit Card,0,2.7,27-12-2024
+416,28,Female,New York,48557,3,10,50,500,10,Toys,Paid Ads,Tablet,Credit Card,0,4.3,23-03-2024
+417,32,Male,New York,113053,8,7,76,532,10,Beauty,Organic,Mobile,Debit Card,0,4.8,29-06-2025
+418,54,Female,San Jose,36464,3,12,35,420,8,Beauty,Organic,Desktop,UPI,0,4.6,28-06-2024
+419,34,Male,Los Angeles,91304,7,12,225,2700,54,Fashion,Paid Ads,Mobile,Credit Card,0,2.9,11-12-2025
+420,54,Female,Chicago,106427,6,14,148,2072,41,Fashion,Paid Ads,Mobile,Credit Card,0,3.9,24-07-2024
+421,40,Male,San Antonio,85830,10,9,46,414,8,Home,Organic,Mobile,Credit Card,0,2.6,03-10-2024
+422,19,Male,Chicago,109737,1,12,227,2724,54,Sports,Paid Ads,Mobile,Credit Card,1,3.4,12-08-2024
+423,58,Male,Houston,91078,7,17,101,1717,34,Toys,Referral,Desktop,PayPal,1,4.6,27-08-2025
+424,43,Female,Chicago,34321,4,12,116,1392,27,Beauty,Social Media,Mobile,UPI,0,3.1,08-03-2024
+425,32,Male,Dallas,42861,1,8,149,1192,23,Beauty,Paid Ads,Tablet,Debit Card,0,3.8,22-10-2024
+426,50,Female,San Diego,102394,10,14,136,1904,38,Electronics,Organic,Mobile,Credit Card,0,2.7,02-10-2024
+427,19,Female,Phoenix,47272,8,10,136,1360,27,Sports,Paid Ads,Tablet,Credit Card,0,4,19-07-2025
+428,41,Female,New York,87196,1,8,120,960,19,Sports,Referral,Desktop,PayPal,0,3,03-09-2024
+429,37,Male,San Jose,103591,9,10,266,2660,53,Fashion,Paid Ads,Mobile,Debit Card,1,4.8,25-05-2024
+430,49,Male,San Antonio,48100,3,13,196,2548,50,Fashion,Referral,Mobile,Debit Card,0,4.3,26-09-2024
+431,24,Female,San Antonio,104797,4,11,285,3135,62,Beauty,Paid Ads,Tablet,Credit Card,0,3.5,15-02-2026
+432,31,Male,Houston,77914,10,9,45,405,8,Beauty,Organic,Desktop,PayPal,0,3.5,29-04-2024
+433,19,Female,San Jose,79549,1,17,288,4896,97,Sports,Social Media,Desktop,Debit Card,1,4.2,09-06-2025
+434,26,Male,San Antonio,118150,7,11,149,1639,32,Beauty,Social Media,Desktop,UPI,0,4.3,29-07-2024
+435,53,Female,Houston,103805,3,10,153,1530,30,Home,Paid Ads,Desktop,Credit Card,0,2.9,07-12-2024
+436,57,Male,Chicago,100726,3,10,126,1260,25,Fashion,Organic,Tablet,Credit Card,0,3.4,09-07-2024
+437,54,Female,San Diego,66110,3,8,168,1344,26,Sports,Referral,Tablet,Debit Card,1,4.3,11-04-2025
+438,31,Male,Chicago,115643,6,12,188,2256,45,Electronics,Social Media,Tablet,UPI,1,2.8,24-03-2025
+439,59,Male,Dallas,60825,5,15,144,2160,43,Fashion,Social Media,Desktop,PayPal,1,4.1,16-05-2025
+440,53,Male,Philadelphia,97081,5,15,272,4080,81,Sports,Social Media,Desktop,Debit Card,1,3.6,02-04-2024
+441,56,Female,San Antonio,41283,8,11,265,2915,58,Toys,Paid Ads,Desktop,Credit Card,1,3.3,04-08-2024
+442,55,Female,Dallas,39111,3,12,58,696,13,Beauty,Social Media,Desktop,PayPal,0,3.6,22-12-2024
+443,27,Male,San Antonio,47400,4,12,76,912,18,Electronics,Organic,Desktop,Debit Card,0,4.6,29-05-2024
+444,50,Female,Phoenix,81428,2,13,265,3445,68,Fashion,Referral,Mobile,PayPal,1,3.4,14-08-2024
+445,19,Male,Chicago,82409,10,16,108,1728,34,Fashion,Referral,Tablet,Debit Card,0,4.1,16-10-2024
+446,33,Female,Philadelphia,98416,8,11,37,407,8,Sports,Referral,Mobile,PayPal,1,4,01-07-2025
+447,43,Female,Los Angeles,98199,10,12,127,1524,30,Sports,Referral,Desktop,Debit Card,1,3.4,05-09-2024
+448,41,Male,San Jose,43515,7,13,51,663,13,Beauty,Organic,Mobile,Credit Card,0,3.8,30-08-2024
+449,32,Female,San Jose,84633,8,14,259,3626,72,Sports,Organic,Tablet,Credit Card,0,3.4,02-12-2025
+450,38,Male,Phoenix,118559,1,7,208,1456,29,Fashion,Organic,Desktop,Credit Card,1,4.6,27-07-2024
+451,50,Female,Los Angeles,56331,9,12,201,2412,48,Sports,Referral,Desktop,Credit Card,1,2.8,22-03-2025
+452,31,Female,Chicago,102778,10,11,90,990,19,Fashion,Referral,Mobile,PayPal,1,4.4,30-05-2024
+453,55,Female,San Diego,48830,5,11,29,319,6,Beauty,Organic,Tablet,UPI,0,5,20-03-2025
+454,51,Female,Dallas,72292,2,15,140,2100,42,Sports,Paid Ads,Tablet,UPI,0,4.4,13-08-2025
+455,59,Male,San Diego,102267,4,10,186,1860,37,Home,Paid Ads,Desktop,Debit Card,1,2.8,15-05-2024
+456,56,Female,New York,101101,6,15,78,1170,23,Toys,Referral,Tablet,PayPal,0,3.8,28-04-2025
+457,57,Male,Houston,98143,3,12,196,2352,47,Toys,Social Media,Desktop,UPI,1,4,10-05-2024
+458,20,Male,Philadelphia,45728,6,11,215,2365,47,Sports,Social Media,Tablet,PayPal,1,3,14-08-2024
+459,45,Female,Houston,77631,5,11,56,616,12,Beauty,Social Media,Tablet,Credit Card,1,3.3,18-04-2024
+460,24,Male,Phoenix,102107,5,12,29,348,6,Electronics,Social Media,Mobile,PayPal,1,5,06-04-2025
+461,31,Male,San Diego,54660,5,6,77,462,9,Toys,Referral,Tablet,PayPal,0,3.7,09-09-2025
+462,53,Female,San Jose,94817,1,7,240,1680,33,Toys,Organic,Mobile,PayPal,1,5,15-12-2024
+463,44,Male,Los Angeles,109380,8,18,201,3618,72,Toys,Organic,Mobile,PayPal,1,3.2,10-08-2024
+464,50,Female,San Antonio,88560,3,16,59,944,18,Beauty,Social Media,Mobile,Debit Card,0,3.6,18-03-2025
+465,38,Male,Chicago,54502,7,11,106,1166,23,Toys,Referral,Desktop,Debit Card,1,4.1,12-07-2025
+466,37,Female,San Antonio,55616,2,11,36,396,7,Electronics,Referral,Mobile,UPI,0,4.7,11-06-2024
+467,55,Male,Chicago,83144,5,5,171,855,17,Beauty,Paid Ads,Mobile,Debit Card,1,3.8,21-02-2025
+468,41,Male,Chicago,117318,1,17,284,4828,96,Toys,Referral,Tablet,Credit Card,1,3.7,07-11-2025
+469,29,Female,Los Angeles,95171,1,9,115,1035,20,Home,Referral,Mobile,Credit Card,1,3.8,29-05-2024
+470,35,Male,San Diego,56183,6,18,57,1026,20,Home,Referral,Desktop,Credit Card,0,4,28-05-2025
+471,31,Male,Philadelphia,104755,7,10,169,1690,33,Beauty,Referral,Mobile,Credit Card,0,2.8,01-07-2024
+472,24,Female,San Jose,117736,10,10,165,1650,33,Electronics,Social Media,Tablet,Debit Card,1,3.8,25-03-2024
+473,58,Male,San Jose,80654,3,13,138,1794,35,Home,Paid Ads,Desktop,UPI,0,3.7,19-09-2024
+474,32,Male,New York,113021,6,16,22,352,7,Sports,Social Media,Desktop,UPI,0,4.9,25-05-2025
+475,27,Female,Houston,36743,1,9,238,2142,42,Home,Referral,Tablet,UPI,0,2.8,08-12-2025
+476,54,Female,New York,88535,6,10,160,1600,32,Home,Organic,Mobile,Debit Card,0,4.2,14-01-2026
+477,30,Male,San Jose,42467,2,10,41,410,8,Beauty,Social Media,Mobile,UPI,0,4.5,25-12-2025
+478,56,Female,Philadelphia,41814,9,7,32,224,4,Sports,Referral,Tablet,UPI,1,2.9,30-05-2024
+479,22,Male,San Antonio,105645,7,8,135,1080,21,Sports,Paid Ads,Desktop,Credit Card,0,2.6,29-11-2025
+480,49,Female,San Antonio,73539,9,5,218,1090,21,Home,Paid Ads,Desktop,Debit Card,0,3.6,28-01-2026
+481,19,Female,Los Angeles,44549,4,7,91,637,12,Sports,Referral,Desktop,Debit Card,0,4.1,06-07-2024
+482,54,Male,New York,103181,3,10,189,1890,37,Toys,Paid Ads,Tablet,Debit Card,0,5,17-02-2025
+483,45,Female,San Jose,48316,9,11,167,1837,36,Fashion,Referral,Mobile,PayPal,1,2.7,19-04-2025
+484,55,Male,San Jose,65268,7,11,166,1826,36,Home,Referral,Desktop,PayPal,1,3.2,13-04-2025
+485,46,Male,Los Angeles,65187,1,9,121,1089,21,Home,Organic,Tablet,PayPal,1,2.7,19-07-2024
+486,52,Female,Phoenix,73678,7,13,229,2977,59,Electronics,Paid Ads,Desktop,UPI,0,4,27-08-2024
+487,55,Male,Chicago,78542,10,9,104,936,18,Fashion,Organic,Desktop,Debit Card,0,4.9,22-07-2025
+488,38,Female,New York,33052,10,14,91,1274,25,Sports,Referral,Tablet,PayPal,0,4.2,29-07-2025
+489,30,Male,Philadelphia,39079,7,12,174,2088,41,Toys,Organic,Tablet,UPI,1,3.1,13-07-2025
+490,25,Female,San Diego,84880,5,14,219,3066,61,Beauty,Social Media,Desktop,Debit Card,1,4.6,23-02-2025
+491,48,Female,Houston,88865,9,12,113,1356,27,Beauty,Organic,Desktop,Credit Card,1,4,25-05-2025
+492,39,Female,Phoenix,79990,7,11,121,1331,26,Electronics,Organic,Mobile,Credit Card,0,3.9,21-12-2025
+493,44,Female,San Antonio,83463,10,11,239,2629,52,Fashion,Social Media,Mobile,PayPal,1,4.2,19-05-2024
+494,19,Female,Philadelphia,106312,9,13,201,2613,52,Sports,Paid Ads,Desktop,Debit Card,0,4,11-08-2025
+495,35,Male,Houston,99206,2,16,84,1344,26,Sports,Paid Ads,Mobile,PayPal,0,3.6,04-06-2025
+496,20,Female,Houston,34141,7,8,43,344,6,Home,Organic,Tablet,Debit Card,0,4.4,13-06-2024
+497,32,Male,San Jose,96830,9,10,237,2370,47,Home,Paid Ads,Desktop,PayPal,0,3.6,20-01-2026
+498,58,Female,New York,111110,7,7,151,1057,21,Beauty,Social Media,Tablet,UPI,0,4.2,14-02-2026
+499,47,Female,San Diego,114003,9,13,102,1326,26,Home,Organic,Mobile,Credit Card,1,2.9,18-01-2026
+500,53,Female,San Antonio,68563,4,10,41,410,8,Sports,Paid Ads,Desktop,Credit Card,0,3,08-08-2025
+501,34,Female,San Antonio,86655,3,8,257,2056,41,Fashion,Referral,Tablet,UPI,0,4.2,04-10-2024
+502,19,Male,San Jose,47138,9,11,289,3179,63,Fashion,Social Media,Desktop,PayPal,0,3.3,25-06-2024
+503,34,Male,Los Angeles,92532,10,15,119,1785,35,Toys,Organic,Tablet,Debit Card,1,3.2,03-10-2024
+504,59,Male,Chicago,93644,4,13,191,2483,49,Fashion,Paid Ads,Desktop,UPI,1,4.8,05-01-2025
+505,55,Male,Houston,56028,10,18,77,1386,27,Toys,Organic,Mobile,UPI,0,4.5,26-11-2025
+506,51,Male,Chicago,52763,5,21,145,3045,60,Fashion,Organic,Mobile,Debit Card,0,3,15-02-2025
+507,26,Male,Philadelphia,36041,2,11,182,2002,40,Electronics,Social Media,Tablet,UPI,1,3.2,07-12-2025
+508,19,Female,Phoenix,67841,5,11,275,3025,60,Toys,Referral,Tablet,Debit Card,1,3.4,22-03-2025
+509,20,Male,San Jose,67260,3,12,72,864,17,Beauty,Organic,Desktop,PayPal,0,3.5,20-01-2026
+510,56,Female,Dallas,32147,8,9,274,2466,49,Electronics,Referral,Mobile,PayPal,0,4.1,24-05-2025
+511,22,Male,Dallas,36862,8,13,102,1326,26,Electronics,Referral,Mobile,PayPal,0,2.5,10-10-2025
+512,50,Male,New York,104094,7,11,91,1001,20,Fashion,Organic,Desktop,PayPal,0,4.1,27-09-2025
+513,30,Male,New York,106448,7,5,136,680,13,Fashion,Social Media,Mobile,Credit Card,1,3.4,10-02-2025
+514,55,Female,Philadelphia,91313,1,14,292,4088,81,Toys,Paid Ads,Desktop,PayPal,0,3.1,24-04-2024
+515,29,Male,San Jose,88466,6,17,123,2091,41,Sports,Referral,Tablet,Credit Card,0,4.1,09-03-2025
+516,32,Female,San Antonio,65891,2,18,150,2700,54,Electronics,Referral,Tablet,Debit Card,0,5,15-12-2024
+517,56,Female,Dallas,95864,4,10,148,1480,29,Fashion,Organic,Mobile,UPI,1,4,23-03-2024
+518,41,Male,San Jose,98706,6,9,162,1458,29,Electronics,Social Media,Tablet,Debit Card,0,3.1,11-01-2026
+519,41,Male,Philadelphia,80390,2,8,275,2200,44,Fashion,Paid Ads,Mobile,Debit Card,1,2.6,18-11-2025
+520,40,Male,San Diego,59504,5,16,63,1008,20,Fashion,Social Media,Tablet,UPI,0,4.7,22-05-2024
+521,56,Female,San Diego,117755,2,16,286,4576,91,Electronics,Referral,Desktop,Debit Card,0,3.9,10-12-2024
+522,54,Male,San Jose,77218,7,9,46,414,8,Sports,Social Media,Mobile,Credit Card,1,4.2,09-06-2025
+523,46,Male,Chicago,53806,6,14,140,1960,39,Electronics,Organic,Tablet,Credit Card,1,3.7,12-05-2025
+524,30,Male,Dallas,107707,9,6,113,678,13,Toys,Referral,Mobile,UPI,0,4.1,24-05-2025
+525,48,Female,San Jose,33543,8,15,231,3465,69,Electronics,Paid Ads,Desktop,UPI,0,2.7,27-06-2025
+526,26,Female,Dallas,118534,2,13,34,442,8,Fashion,Social Media,Desktop,Credit Card,0,4.1,23-02-2024
+527,35,Male,San Antonio,109622,4,13,35,455,9,Sports,Paid Ads,Tablet,Credit Card,0,2.8,07-06-2024
+528,50,Male,Phoenix,113096,5,19,205,3895,77,Sports,Paid Ads,Tablet,Debit Card,0,3.5,23-05-2024
+529,50,Female,Chicago,37910,8,11,208,2288,45,Sports,Paid Ads,Mobile,UPI,1,4.8,12-11-2025
+530,27,Male,San Antonio,92665,8,20,237,4740,94,Home,Paid Ads,Desktop,UPI,0,3.6,26-09-2025
+531,52,Male,Houston,58400,5,21,292,6132,100,Electronics,Paid Ads,Mobile,UPI,0,3.7,31-07-2025
+532,55,Male,San Jose,108082,4,15,276,4140,82,Electronics,Paid Ads,Desktop,Debit Card,1,4.8,19-10-2025
+533,24,Female,San Jose,118877,10,11,125,1375,27,Sports,Referral,Desktop,PayPal,0,3.8,10-01-2026
+534,42,Female,Philadelphia,61007,4,12,156,1872,37,Fashion,Paid Ads,Tablet,Debit Card,1,5,24-04-2024
+535,45,Male,Phoenix,82066,1,15,106,1590,31,Sports,Referral,Mobile,Debit Card,0,4,29-01-2025
+536,43,Female,Chicago,33435,2,13,233,3029,60,Home,Social Media,Desktop,PayPal,1,4.1,31-07-2024
+537,25,Male,Chicago,105164,5,15,137,2055,41,Sports,Referral,Desktop,UPI,0,5,30-11-2025
+538,45,Female,Houston,71034,7,9,34,306,6,Beauty,Social Media,Desktop,PayPal,0,4.6,03-12-2025
+539,30,Female,Los Angeles,88436,4,5,140,700,14,Electronics,Social Media,Tablet,Credit Card,1,2.6,31-12-2024
+540,34,Male,San Antonio,89946,2,17,119,2023,40,Sports,Organic,Tablet,Debit Card,0,3.3,09-12-2025
+541,45,Female,Philadelphia,116669,1,6,248,1488,29,Toys,Social Media,Mobile,Debit Card,0,3,21-09-2025
+542,29,Female,San Jose,100968,8,14,181,2534,50,Beauty,Referral,Desktop,Debit Card,0,3.2,11-11-2024
+543,35,Female,San Diego,50187,8,14,119,1666,33,Fashion,Organic,Mobile,Debit Card,1,4.5,02-09-2024
+544,24,Female,Dallas,90030,8,8,72,576,11,Toys,Social Media,Mobile,PayPal,0,5,28-12-2024
+545,48,Female,San Jose,89758,10,23,282,6486,100,Home,Paid Ads,Mobile,UPI,1,3,25-04-2025
+546,35,Male,Phoenix,88408,10,10,93,930,18,Home,Referral,Desktop,Credit Card,0,3.9,09-12-2025
+547,27,Male,Los Angeles,52301,6,16,281,4496,89,Electronics,Referral,Desktop,Credit Card,0,3.3,06-05-2024
+548,50,Male,Chicago,96273,7,15,130,1950,39,Home,Organic,Tablet,UPI,1,3.9,23-10-2024
+549,50,Female,San Antonio,87853,8,8,283,2264,45,Home,Paid Ads,Tablet,PayPal,1,3.6,31-10-2025
+550,37,Female,San Diego,48161,9,10,171,1710,34,Home,Referral,Mobile,Debit Card,0,2.5,07-03-2024
+551,55,Male,Houston,82021,5,11,98,1078,21,Toys,Social Media,Mobile,Credit Card,1,3.4,07-07-2024
+552,50,Male,New York,40683,1,14,216,3024,60,Beauty,Organic,Tablet,Debit Card,0,4,03-12-2025
+553,25,Male,Philadelphia,74553,9,20,31,620,12,Beauty,Referral,Mobile,Debit Card,1,3.1,24-03-2025
+554,31,Male,Houston,47207,8,11,272,2992,59,Toys,Referral,Tablet,UPI,0,3.1,02-02-2026
+555,33,Female,San Antonio,66486,6,11,77,847,16,Home,Referral,Tablet,Debit Card,1,2.5,13-09-2025
+556,43,Male,Los Angeles,55032,9,18,171,3078,61,Beauty,Social Media,Tablet,PayPal,1,3.9,26-08-2025
+557,48,Female,Dallas,47127,1,16,220,3520,70,Sports,Referral,Mobile,Credit Card,0,4,17-08-2024
+558,48,Male,San Antonio,97300,10,17,175,2975,59,Toys,Social Media,Tablet,Debit Card,1,4.1,15-02-2025
+559,56,Female,San Diego,82772,7,13,71,923,18,Beauty,Paid Ads,Mobile,Credit Card,1,4.2,10-06-2025
+560,46,Female,San Jose,68931,1,14,185,2590,51,Beauty,Social Media,Tablet,Credit Card,0,3.2,27-10-2024
+561,32,Female,San Diego,40150,10,7,201,1407,28,Electronics,Social Media,Desktop,Debit Card,0,4.3,15-06-2025
+562,39,Male,Dallas,118478,10,17,111,1887,37,Fashion,Referral,Mobile,UPI,1,4.2,10-12-2025
+563,39,Female,San Diego,74223,8,14,58,812,16,Electronics,Referral,Tablet,Debit Card,0,5,17-08-2024
+564,51,Male,Chicago,40481,7,6,42,252,5,Home,Paid Ads,Desktop,Credit Card,1,3,18-12-2024
+565,47,Male,New York,104554,10,12,64,768,15,Beauty,Referral,Tablet,UPI,0,2.7,12-02-2025
+566,27,Female,San Diego,103994,6,15,194,2910,58,Toys,Social Media,Mobile,UPI,1,3.8,06-06-2025
+567,36,Female,San Antonio,116338,2,10,281,2810,56,Electronics,Organic,Mobile,Debit Card,0,3.2,15-02-2025
+568,24,Male,San Antonio,112797,7,7,44,308,6,Electronics,Referral,Desktop,UPI,0,3.8,21-07-2025
+569,28,Male,San Diego,98936,3,15,160,2400,48,Electronics,Social Media,Desktop,PayPal,1,4.2,18-01-2025
+570,28,Female,San Antonio,37869,2,9,53,477,9,Sports,Organic,Mobile,Credit Card,0,3,28-02-2025
+571,36,Male,Dallas,35062,6,10,222,2220,44,Home,Paid Ads,Tablet,Credit Card,1,2.5,14-02-2026
+572,56,Female,Los Angeles,68674,4,22,172,3784,75,Fashion,Social Media,Tablet,Credit Card,1,4.2,28-03-2025
+573,18,Female,Houston,76412,5,13,225,2925,58,Sports,Paid Ads,Mobile,Credit Card,0,3.9,09-11-2024
+574,39,Male,Philadelphia,88876,9,11,279,3069,61,Sports,Referral,Mobile,Debit Card,0,4.2,07-09-2024
+575,56,Female,San Diego,52995,1,6,291,1746,34,Home,Organic,Tablet,Credit Card,0,3.4,03-09-2024
+576,19,Female,San Diego,31102,6,11,237,2607,52,Home,Referral,Tablet,PayPal,0,3.4,27-03-2024
+577,47,Female,Philadelphia,55570,1,11,222,2442,48,Beauty,Social Media,Tablet,PayPal,0,3.7,23-11-2025
+578,40,Male,San Jose,105930,10,13,41,533,10,Home,Social Media,Desktop,Credit Card,1,4,30-05-2025
+579,23,Male,Houston,43026,10,10,287,2870,57,Beauty,Referral,Mobile,Credit Card,0,4.2,15-04-2024
+580,35,Female,Chicago,107224,10,5,272,1360,27,Home,Referral,Desktop,PayPal,0,3.6,27-08-2024
+581,28,Female,Los Angeles,95294,4,14,76,1064,21,Beauty,Organic,Desktop,UPI,1,2.7,22-07-2025
+582,37,Female,Phoenix,37833,7,10,84,840,16,Beauty,Organic,Tablet,Credit Card,0,3.6,14-06-2024
+583,41,Female,San Antonio,115395,2,15,299,4485,89,Sports,Social Media,Mobile,UPI,1,3.1,01-08-2024
+584,43,Female,Philadelphia,59377,6,14,182,2548,50,Fashion,Social Media,Mobile,PayPal,0,4.2,11-10-2025
+585,20,Female,San Jose,85283,10,15,61,915,18,Home,Organic,Mobile,Debit Card,1,3.9,11-10-2025
+586,59,Male,Houston,110720,8,15,41,615,12,Sports,Referral,Mobile,UPI,0,4.5,29-01-2026
+587,26,Female,San Antonio,64815,6,9,186,1674,33,Sports,Social Media,Mobile,PayPal,0,2.7,16-08-2025
+588,54,Male,New York,30486,3,15,211,3165,63,Fashion,Paid Ads,Tablet,UPI,0,3.3,08-03-2025
+589,35,Male,San Diego,89896,10,10,151,1510,30,Fashion,Social Media,Mobile,Debit Card,1,2.9,20-01-2026
+590,36,Male,Chicago,86866,9,16,61,976,19,Electronics,Organic,Mobile,Debit Card,1,2.7,01-09-2025
+591,39,Male,Los Angeles,65135,9,13,255,3315,66,Electronics,Social Media,Mobile,Credit Card,0,4.6,12-06-2024
+592,50,Female,Houston,117858,6,12,183,2196,43,Sports,Social Media,Desktop,UPI,0,4.7,08-02-2025
+593,39,Male,Los Angeles,75771,3,10,48,480,9,Electronics,Referral,Mobile,Credit Card,0,4,01-01-2026
+594,32,Male,New York,106675,4,12,201,2412,48,Beauty,Referral,Tablet,UPI,0,2.8,16-08-2025
+595,34,Male,Los Angeles,32956,10,10,100,1000,20,Sports,Paid Ads,Desktop,PayPal,1,3.6,29-12-2025
+596,34,Female,San Antonio,82243,9,12,73,876,17,Beauty,Paid Ads,Desktop,PayPal,1,4,27-12-2024
+597,27,Male,Phoenix,77965,6,9,213,1917,38,Fashion,Organic,Tablet,Credit Card,0,2.8,30-12-2024
+598,25,Male,Los Angeles,66169,5,8,158,1264,25,Electronics,Paid Ads,Desktop,Debit Card,0,4.9,14-10-2025
+599,43,Female,Houston,105677,9,10,266,2660,53,Fashion,Referral,Tablet,Credit Card,0,4,09-07-2025
+600,36,Female,Philadelphia,73516,3,13,123,1599,31,Electronics,Referral,Tablet,Debit Card,1,3.4,12-11-2025
+601,59,Male,Dallas,79832,4,10,213,2130,42,Sports,Referral,Mobile,UPI,0,4.9,03-06-2024
+602,51,Male,Dallas,34922,9,12,187,2244,44,Fashion,Referral,Tablet,Debit Card,1,2.6,09-07-2024
+603,27,Male,Los Angeles,37086,6,7,182,1274,25,Beauty,Referral,Desktop,Debit Card,0,3.7,19-10-2025
+604,48,Male,Chicago,56425,8,11,38,418,8,Beauty,Referral,Desktop,Credit Card,1,4.1,26-06-2025
+605,53,Male,Houston,45248,3,11,184,2024,40,Beauty,Referral,Desktop,PayPal,0,4.8,15-08-2025
+606,47,Female,San Jose,39967,5,12,23,276,5,Toys,Paid Ads,Mobile,PayPal,1,4.2,02-08-2025
+607,45,Female,Philadelphia,114793,3,5,96,480,9,Sports,Paid Ads,Mobile,Credit Card,0,4.4,14-11-2024
+608,31,Male,Los Angeles,47276,4,6,171,1026,20,Electronics,Social Media,Tablet,UPI,0,3.1,12-10-2025
+609,20,Male,Philadelphia,39852,4,10,196,1960,39,Electronics,Paid Ads,Tablet,UPI,1,4.9,12-11-2025
+610,32,Female,Philadelphia,51329,7,16,218,3488,69,Toys,Social Media,Mobile,Debit Card,0,2.7,09-05-2024
+611,28,Male,Dallas,118220,9,10,85,850,17,Fashion,Organic,Tablet,Credit Card,0,4.3,26-11-2025
+612,42,Female,Dallas,35295,4,15,150,2250,45,Fashion,Referral,Desktop,Credit Card,0,4.8,17-12-2025
+613,56,Female,Phoenix,102302,1,10,130,1300,26,Home,Organic,Desktop,Credit Card,0,3.1,08-08-2025
+614,56,Female,Houston,41161,2,14,28,392,7,Electronics,Paid Ads,Mobile,Debit Card,1,2.7,27-04-2025
+615,26,Male,Dallas,96188,8,11,129,1419,28,Fashion,Social Media,Desktop,Credit Card,1,2.5,14-08-2024
+616,28,Female,Dallas,87745,5,16,30,480,9,Home,Social Media,Mobile,Debit Card,1,2.9,21-04-2024
+617,18,Male,San Jose,105591,5,12,163,1956,39,Fashion,Organic,Tablet,Debit Card,1,3.1,23-09-2025
+618,33,Male,San Antonio,83517,8,11,91,1001,20,Electronics,Social Media,Tablet,UPI,0,2.9,09-10-2024
+619,31,Male,San Antonio,95908,10,15,82,1230,24,Beauty,Referral,Mobile,UPI,1,3.9,16-07-2025
+620,19,Male,San Jose,31403,3,13,92,1196,23,Sports,Paid Ads,Mobile,Debit Card,1,4.2,24-02-2024
+621,55,Female,Dallas,67606,1,22,73,1606,32,Fashion,Paid Ads,Mobile,PayPal,0,2.7,07-01-2025
+622,45,Female,Dallas,67412,7,7,232,1624,32,Fashion,Organic,Tablet,PayPal,0,4.8,02-09-2024
+623,57,Male,Los Angeles,68699,6,17,241,4097,81,Home,Paid Ads,Tablet,Debit Card,1,2.7,08-05-2024
+624,43,Male,San Antonio,109431,6,12,105,1260,25,Electronics,Organic,Desktop,PayPal,1,4.7,20-09-2025
+625,52,Female,Phoenix,54544,5,15,182,2730,54,Electronics,Social Media,Tablet,Credit Card,1,4.7,01-10-2024
+626,45,Female,Dallas,73988,6,16,166,2656,53,Sports,Social Media,Desktop,Debit Card,0,3.7,06-03-2024
+627,43,Female,San Diego,68097,7,11,203,2233,44,Sports,Organic,Tablet,UPI,0,4.4,11-08-2024
+628,36,Female,San Jose,30148,10,7,175,1225,24,Sports,Organic,Mobile,Credit Card,1,3.6,28-03-2025
+629,46,Male,Dallas,81529,9,18,108,1944,38,Fashion,Paid Ads,Mobile,Credit Card,0,4,18-08-2024
+630,56,Female,San Jose,110770,7,9,290,2610,52,Fashion,Paid Ads,Desktop,Credit Card,1,4.9,10-08-2024
+631,58,Male,San Antonio,88706,5,9,199,1791,35,Sports,Social Media,Desktop,Debit Card,1,3.6,27-10-2024
+632,58,Male,San Jose,83450,5,9,109,981,19,Beauty,Organic,Desktop,UPI,1,4.9,20-05-2024
+633,35,Male,Philadelphia,40447,1,11,206,2266,45,Toys,Paid Ads,Mobile,PayPal,0,3.7,06-10-2025
+634,19,Male,San Jose,31559,7,13,184,2392,47,Electronics,Social Media,Mobile,Credit Card,0,4.2,03-09-2024
+635,18,Male,San Jose,110618,2,18,206,3708,74,Sports,Organic,Mobile,PayPal,0,2.6,17-05-2024
+636,28,Male,Los Angeles,91509,1,14,75,1050,21,Beauty,Paid Ads,Tablet,Debit Card,1,2.7,04-02-2026
+637,22,Female,New York,108627,2,8,221,1768,35,Electronics,Referral,Mobile,Debit Card,1,3.3,22-04-2025
+638,42,Male,San Diego,108233,1,12,76,912,18,Electronics,Social Media,Mobile,UPI,0,3.2,10-12-2024
+639,23,Male,Los Angeles,117640,1,12,253,3036,60,Fashion,Organic,Mobile,UPI,1,4.1,02-12-2024
+640,53,Male,Los Angeles,52076,1,14,150,2100,42,Sports,Paid Ads,Desktop,PayPal,1,3.7,31-03-2025
+641,50,Male,Chicago,52666,7,7,220,1540,30,Home,Paid Ads,Desktop,Credit Card,0,3.8,19-02-2026
+642,48,Female,Houston,105787,9,8,65,520,10,Electronics,Referral,Tablet,UPI,1,4.5,12-10-2024
+643,37,Male,Chicago,57939,6,14,246,3444,68,Home,Organic,Desktop,Credit Card,0,3.7,23-09-2025
+644,52,Male,San Jose,108467,5,8,141,1128,22,Beauty,Organic,Tablet,Credit Card,0,4.3,10-12-2025
+645,19,Female,San Diego,38080,8,11,208,2288,45,Home,Paid Ads,Desktop,Credit Card,0,4.2,24-09-2024
+646,34,Female,Philadelphia,45831,3,10,26,260,5,Fashion,Organic,Tablet,Debit Card,0,3.6,27-03-2025
+647,28,Male,Phoenix,109390,1,17,273,4641,92,Home,Social Media,Tablet,Credit Card,0,4.1,18-02-2026
+648,43,Male,Houston,114101,1,10,287,2870,57,Home,Social Media,Tablet,Debit Card,0,3.5,31-01-2025
+649,41,Male,Houston,86888,1,6,64,384,7,Fashion,Referral,Tablet,Credit Card,0,4.6,27-07-2024
+650,49,Female,New York,63545,8,11,47,517,10,Beauty,Referral,Desktop,PayPal,0,3.7,15-01-2026
+651,59,Male,Chicago,85479,7,10,205,2050,41,Sports,Referral,Mobile,Credit Card,0,2.6,27-08-2024
+652,50,Male,Phoenix,108947,10,15,238,3570,71,Electronics,Referral,Mobile,Credit Card,1,4.4,01-03-2025
+653,48,Male,Chicago,42500,10,11,107,1177,23,Electronics,Social Media,Mobile,Debit Card,0,2.7,24-01-2025
+654,36,Female,New York,115677,1,16,161,2576,51,Beauty,Referral,Tablet,Debit Card,1,3.9,26-06-2024
+655,56,Male,Houston,56016,1,16,99,1584,31,Fashion,Social Media,Desktop,Credit Card,0,4,15-07-2025
+656,48,Female,New York,83836,3,6,106,636,12,Sports,Social Media,Tablet,Credit Card,1,3.1,06-04-2025
+657,24,Male,New York,79047,6,14,115,1610,32,Beauty,Organic,Tablet,UPI,0,2.7,25-09-2025
+658,21,Female,San Jose,63697,5,7,141,987,19,Electronics,Organic,Mobile,Credit Card,1,3.5,03-02-2025
+659,43,Female,Chicago,35206,2,16,31,496,9,Fashion,Organic,Desktop,PayPal,1,4.5,07-05-2024
+660,33,Male,Phoenix,64263,2,10,261,2610,52,Home,Organic,Tablet,Debit Card,0,4.1,23-05-2025
+661,28,Male,Houston,83664,5,15,28,420,8,Fashion,Organic,Desktop,Credit Card,0,4.7,13-10-2025
+662,23,Female,San Diego,98112,9,9,106,954,19,Electronics,Referral,Mobile,Credit Card,1,3.5,26-02-2025
+663,50,Male,San Antonio,44746,4,12,129,1548,30,Sports,Social Media,Tablet,UPI,1,2.8,21-04-2024
+664,25,Male,San Jose,78671,9,16,38,608,12,Toys,Social Media,Tablet,UPI,1,4.1,05-05-2024
+665,33,Male,Dallas,98666,4,15,297,4455,89,Sports,Social Media,Desktop,Credit Card,0,2.8,19-01-2026
+666,50,Male,Philadelphia,109360,6,19,99,1881,37,Sports,Social Media,Tablet,Debit Card,1,2.8,06-04-2024
+667,42,Female,Dallas,106281,5,10,197,1970,39,Toys,Organic,Tablet,Debit Card,0,4.8,31-10-2024
+668,42,Male,Dallas,32597,6,9,163,1467,29,Sports,Social Media,Mobile,UPI,0,4.8,30-11-2025
+669,58,Female,New York,72722,1,12,229,2748,54,Fashion,Paid Ads,Tablet,Credit Card,1,4.4,13-05-2025
+670,31,Female,New York,52257,7,23,202,4646,92,Toys,Social Media,Mobile,Credit Card,0,2.9,20-02-2025
+671,19,Male,Dallas,88847,8,13,212,2756,55,Home,Paid Ads,Tablet,PayPal,1,4.3,25-08-2024
+672,41,Female,Phoenix,95092,5,12,108,1296,25,Sports,Organic,Mobile,PayPal,0,4.3,14-10-2025
+673,25,Female,Chicago,75482,2,12,176,2112,42,Home,Referral,Tablet,PayPal,0,3.2,13-01-2026
+674,57,Female,New York,55117,7,9,239,2151,43,Electronics,Referral,Tablet,Credit Card,1,3.1,09-03-2024
+675,43,Female,San Diego,71679,4,9,24,216,4,Beauty,Referral,Tablet,PayPal,1,4.1,06-03-2025
+676,21,Female,San Jose,94094,9,9,131,1179,23,Fashion,Organic,Mobile,Credit Card,0,2.9,18-10-2025
+677,36,Male,San Antonio,76336,8,7,59,413,8,Home,Referral,Desktop,UPI,0,3.6,26-11-2024
+678,28,Female,San Diego,31160,10,10,264,2640,52,Toys,Social Media,Mobile,UPI,1,3,20-12-2024
+679,43,Male,Dallas,75278,8,11,208,2288,45,Beauty,Organic,Tablet,UPI,0,4.2,31-07-2025
+680,55,Male,San Diego,88784,10,15,37,555,11,Sports,Referral,Tablet,UPI,1,3,14-07-2024
+681,24,Male,Philadelphia,55104,2,10,288,2880,57,Electronics,Organic,Mobile,Debit Card,1,3.8,19-03-2025
+682,52,Female,San Diego,99110,10,10,182,1820,36,Beauty,Organic,Tablet,UPI,0,4.8,07-06-2024
+683,24,Male,Chicago,113629,7,12,279,3348,66,Beauty,Paid Ads,Desktop,PayPal,1,4.8,21-09-2025
+684,40,Male,Los Angeles,95277,1,3,253,759,15,Beauty,Referral,Tablet,Debit Card,0,2.8,17-10-2025
+685,56,Male,Los Angeles,70818,2,11,78,858,17,Electronics,Paid Ads,Tablet,PayPal,0,4.9,05-01-2026
+686,59,Male,Houston,30565,5,8,44,352,7,Toys,Paid Ads,Mobile,PayPal,0,2.8,15-10-2025
+687,18,Male,Chicago,76978,5,17,225,3825,76,Home,Paid Ads,Tablet,Credit Card,0,3.1,23-02-2024
+688,33,Male,Los Angeles,58460,4,7,290,2030,40,Fashion,Social Media,Tablet,Credit Card,1,3.8,06-11-2025
+689,57,Female,San Jose,109720,7,5,203,1015,20,Fashion,Paid Ads,Tablet,Credit Card,1,3.3,17-07-2025
+690,24,Female,Houston,44961,8,10,129,1290,25,Electronics,Social Media,Desktop,Debit Card,0,3.6,09-11-2024
+691,43,Male,Los Angeles,99002,10,12,50,600,12,Sports,Social Media,Desktop,UPI,0,4.3,20-05-2024
+692,58,Male,Chicago,59430,3,11,40,440,8,Sports,Referral,Mobile,PayPal,1,3.9,05-06-2024
+693,46,Male,New York,77703,9,16,254,4064,81,Electronics,Organic,Mobile,Credit Card,1,4.3,03-06-2025
+694,43,Female,Phoenix,109702,4,7,70,490,9,Electronics,Social Media,Desktop,UPI,0,4.1,05-01-2025
+695,22,Female,Philadelphia,64262,8,7,226,1582,31,Electronics,Organic,Mobile,Credit Card,0,3.4,29-03-2025
+696,47,Male,San Diego,75227,10,18,183,3294,65,Toys,Referral,Desktop,PayPal,0,2.7,14-02-2025
+697,33,Male,Houston,57073,7,8,218,1744,34,Sports,Social Media,Mobile,PayPal,0,3.2,24-11-2025
+698,46,Male,San Jose,59181,10,19,241,4579,91,Home,Referral,Mobile,Credit Card,1,2.9,06-08-2024
+699,26,Female,Houston,30296,10,9,216,1944,38,Fashion,Organic,Tablet,Credit Card,0,4.2,22-07-2025
+700,52,Male,Los Angeles,52588,6,14,168,2352,47,Fashion,Referral,Tablet,UPI,0,3.3,03-02-2026
+701,40,Male,San Antonio,119336,2,7,158,1106,22,Beauty,Social Media,Mobile,Debit Card,0,4.8,10-05-2024
+702,41,Female,San Antonio,63690,2,16,160,2560,51,Fashion,Paid Ads,Tablet,Debit Card,0,3.8,04-04-2025
+703,27,Male,Los Angeles,83739,5,9,167,1503,30,Sports,Social Media,Mobile,Credit Card,0,3.6,26-03-2025
+704,25,Male,Philadelphia,53365,2,11,40,440,8,Fashion,Referral,Tablet,Credit Card,0,3.2,24-11-2025
+705,18,Male,New York,112681,2,17,52,884,17,Beauty,Referral,Desktop,Credit Card,0,4.3,23-09-2025
+706,36,Female,San Antonio,86344,9,15,155,2325,46,Beauty,Social Media,Desktop,PayPal,0,3.7,18-09-2024
+707,38,Male,San Jose,98580,8,10,269,2690,53,Fashion,Organic,Tablet,PayPal,0,2.8,09-02-2025
+708,58,Male,New York,115973,10,13,290,3770,75,Beauty,Organic,Desktop,UPI,1,4.9,04-12-2025
+709,26,Female,Chicago,58451,3,16,273,4368,87,Beauty,Paid Ads,Mobile,UPI,0,2.8,17-11-2025
+710,18,Female,San Jose,55395,10,13,247,3211,64,Toys,Referral,Desktop,Credit Card,1,4.4,28-03-2024
+711,39,Male,San Antonio,58690,2,14,131,1834,36,Electronics,Social Media,Mobile,PayPal,0,4.1,17-05-2025
+712,49,Male,Houston,47821,10,16,223,3568,71,Toys,Organic,Tablet,UPI,1,4.9,14-01-2026
+713,26,Female,New York,42380,6,11,144,1584,31,Sports,Paid Ads,Desktop,PayPal,1,4.1,04-11-2025
+714,42,Male,San Jose,73826,2,16,67,1072,21,Fashion,Social Media,Desktop,PayPal,0,4.3,01-08-2025
+715,33,Male,Chicago,41322,5,12,100,1200,24,Toys,Referral,Mobile,PayPal,0,3.4,08-06-2024
+716,18,Female,New York,107339,2,8,138,1104,22,Home,Referral,Mobile,UPI,1,3.2,05-06-2025
+717,42,Male,San Diego,76766,7,10,112,1120,22,Electronics,Organic,Mobile,Debit Card,1,3.2,04-06-2024
+718,27,Female,San Diego,78926,6,11,237,2607,52,Home,Social Media,Desktop,PayPal,0,3.3,22-12-2024
+719,52,Female,Houston,117840,2,7,20,140,2,Sports,Organic,Mobile,UPI,0,3.3,21-10-2024
+720,37,Male,Chicago,97865,3,10,77,770,15,Electronics,Paid Ads,Tablet,Credit Card,1,2.9,23-02-2025
+721,59,Female,Phoenix,103786,6,11,168,1848,36,Home,Paid Ads,Mobile,Debit Card,0,3.3,16-05-2025
+722,21,Male,Phoenix,113029,2,14,73,1022,20,Home,Referral,Tablet,UPI,1,3.4,17-12-2024
+723,40,Male,Dallas,72875,2,9,173,1557,31,Sports,Social Media,Desktop,PayPal,0,3,25-06-2024
+724,29,Male,San Jose,89567,3,10,201,2010,40,Sports,Organic,Desktop,PayPal,1,3.7,29-01-2025
+725,48,Female,Chicago,98232,1,8,154,1232,24,Home,Organic,Mobile,Debit Card,1,3.3,28-04-2025
+726,59,Male,San Diego,103228,5,6,272,1632,32,Toys,Paid Ads,Desktop,Credit Card,1,4.6,30-01-2025
+727,56,Female,Chicago,95129,9,12,24,288,5,Home,Social Media,Tablet,PayPal,0,3,21-04-2024
+728,20,Male,Houston,54918,10,18,108,1944,38,Electronics,Paid Ads,Mobile,Debit Card,1,4.6,06-12-2025
+729,54,Female,Phoenix,117412,3,14,59,826,16,Toys,Organic,Mobile,Debit Card,0,4.4,28-04-2024
+730,21,Male,San Antonio,104311,8,12,76,912,18,Fashion,Organic,Mobile,PayPal,0,2.9,07-02-2025
+731,23,Female,New York,112027,8,12,291,3492,69,Beauty,Social Media,Desktop,PayPal,0,4.6,03-05-2025
+732,58,Female,Philadelphia,54756,6,16,99,1584,31,Electronics,Social Media,Mobile,Debit Card,0,3.8,26-05-2025
+733,24,Female,Los Angeles,36869,3,8,204,1632,32,Fashion,Referral,Tablet,UPI,1,4,18-11-2025
+734,52,Female,Dallas,114390,8,10,159,1590,31,Beauty,Referral,Desktop,PayPal,1,3.9,01-06-2025
+735,23,Male,San Diego,87623,3,15,131,1965,39,Sports,Organic,Desktop,Debit Card,1,4,17-06-2025
+736,43,Female,Chicago,85309,7,11,57,627,12,Home,Social Media,Desktop,UPI,0,3.4,01-05-2025
+737,25,Female,San Jose,49199,9,8,161,1288,25,Beauty,Social Media,Tablet,PayPal,1,4.8,21-07-2025
+738,22,Male,Houston,65999,1,4,51,204,4,Home,Social Media,Tablet,PayPal,1,3.1,05-08-2025
+739,44,Female,New York,113700,9,12,63,756,15,Fashion,Referral,Tablet,UPI,1,3.9,27-03-2024
+740,30,Male,San Diego,64248,8,8,107,856,17,Electronics,Paid Ads,Tablet,Debit Card,1,3.3,13-02-2026
+741,47,Female,Houston,91748,7,10,134,1340,26,Sports,Social Media,Tablet,Credit Card,0,3.1,11-09-2024
+742,47,Male,San Diego,117317,1,15,48,720,14,Beauty,Organic,Tablet,UPI,0,3.1,13-10-2025
+743,54,Male,New York,119572,9,9,80,720,14,Beauty,Paid Ads,Mobile,Credit Card,0,3.7,28-10-2024
+744,24,Male,New York,46360,3,11,265,2915,58,Sports,Social Media,Desktop,UPI,0,4.3,04-12-2025
+745,34,Male,Dallas,71300,3,14,189,2646,52,Sports,Paid Ads,Tablet,UPI,0,2.9,22-04-2025
+746,32,Female,San Diego,40564,3,12,56,672,13,Electronics,Referral,Mobile,PayPal,0,3.8,16-06-2025
+747,38,Male,Houston,76104,7,6,62,372,7,Sports,Social Media,Desktop,UPI,1,3.9,29-10-2024
+748,50,Male,New York,56519,4,14,57,798,15,Sports,Referral,Desktop,Debit Card,1,4.5,13-01-2026
+749,33,Male,Phoenix,99134,10,13,112,1456,29,Electronics,Social Media,Tablet,PayPal,1,3.5,25-12-2024
+750,24,Female,Los Angeles,36057,4,17,239,4063,81,Toys,Referral,Desktop,Credit Card,0,3.5,19-01-2025
+751,23,Male,Houston,53284,2,14,175,2450,49,Electronics,Organic,Tablet,PayPal,0,4.4,17-03-2025
+752,40,Female,San Diego,57425,9,15,278,4170,83,Sports,Referral,Mobile,PayPal,1,2.5,17-10-2025
+753,28,Female,San Diego,81364,1,10,200,2000,40,Beauty,Organic,Desktop,PayPal,1,4.7,30-05-2024
+754,58,Female,Chicago,34791,9,8,106,848,16,Toys,Paid Ads,Desktop,UPI,1,5,17-07-2024
+755,43,Female,Los Angeles,118090,5,7,239,1673,33,Sports,Organic,Desktop,PayPal,0,4.6,10-10-2025
+756,25,Male,Chicago,110146,6,14,185,2590,51,Home,Paid Ads,Tablet,PayPal,0,3.2,22-02-2025
+757,28,Male,Los Angeles,79262,10,16,120,1920,38,Sports,Social Media,Tablet,Credit Card,0,3.9,12-02-2025
+758,29,Female,San Antonio,64674,10,9,181,1629,32,Fashion,Social Media,Desktop,Credit Card,0,3.7,29-08-2025
+759,19,Female,San Antonio,63826,3,11,262,2882,57,Fashion,Paid Ads,Tablet,UPI,0,3.9,23-04-2025
+760,43,Female,New York,62009,4,12,74,888,17,Beauty,Referral,Mobile,PayPal,0,2.9,14-11-2025
+761,37,Male,Los Angeles,35674,1,10,279,2790,55,Electronics,Social Media,Desktop,UPI,1,3.3,23-02-2024
+762,50,Female,Philadelphia,82107,2,13,246,3198,63,Electronics,Organic,Desktop,UPI,0,3.4,17-11-2024
+763,54,Male,San Diego,31626,6,15,269,4035,80,Electronics,Social Media,Mobile,UPI,1,4.4,05-10-2024
+764,54,Male,Houston,33439,9,14,223,3122,62,Fashion,Social Media,Tablet,Credit Card,1,4.1,11-01-2025
+765,44,Male,San Diego,99831,10,9,90,810,16,Sports,Organic,Tablet,UPI,0,3.6,07-02-2026
+766,52,Female,Phoenix,118365,2,15,86,1290,25,Toys,Organic,Desktop,UPI,1,4.3,02-10-2025
+767,44,Male,Dallas,43769,3,9,66,594,11,Beauty,Paid Ads,Tablet,Debit Card,0,4.5,12-08-2025
+768,38,Female,San Antonio,92028,5,11,232,2552,51,Toys,Organic,Desktop,Credit Card,1,3.7,25-10-2024
+769,26,Male,Chicago,45021,8,15,241,3615,72,Sports,Paid Ads,Tablet,PayPal,1,3.3,28-02-2025
+770,52,Female,San Diego,46569,5,21,269,5649,100,Fashion,Social Media,Tablet,Debit Card,1,3.6,02-10-2024
+771,18,Female,Houston,78348,3,12,122,1464,29,Toys,Paid Ads,Mobile,Credit Card,1,4.2,26-01-2026
+772,57,Female,Phoenix,67921,7,11,97,1067,21,Beauty,Referral,Tablet,PayPal,1,3.2,20-05-2024
+773,46,Female,Philadelphia,56325,6,7,73,511,10,Electronics,Organic,Tablet,UPI,0,3.5,28-01-2025
+774,44,Female,Los Angeles,32365,2,19,123,2337,46,Beauty,Paid Ads,Mobile,Credit Card,1,2.6,24-03-2024
+775,19,Male,San Antonio,31919,4,14,168,2352,47,Electronics,Organic,Desktop,Debit Card,0,3.8,06-03-2025
+776,25,Female,Phoenix,63910,5,13,269,3497,69,Home,Social Media,Mobile,Credit Card,1,4.5,03-03-2024
+777,40,Male,San Jose,40129,3,14,133,1862,37,Sports,Paid Ads,Mobile,Credit Card,0,4.8,29-04-2024
+778,59,Female,Dallas,60552,1,18,63,1134,22,Beauty,Social Media,Desktop,Debit Card,1,4.3,21-09-2024
+779,44,Male,San Antonio,38798,8,12,28,336,6,Sports,Referral,Mobile,Debit Card,0,2.6,11-05-2025
+780,30,Male,Philadelphia,48170,4,15,97,1455,29,Fashion,Paid Ads,Desktop,PayPal,1,4.1,08-06-2024
+781,57,Female,New York,106215,6,9,114,1026,20,Sports,Referral,Mobile,PayPal,0,4.9,17-01-2026
+782,54,Female,Houston,64840,9,8,106,848,16,Fashion,Paid Ads,Tablet,Debit Card,0,4.6,10-07-2024
+783,57,Female,San Antonio,74732,8,11,247,2717,54,Sports,Referral,Tablet,Debit Card,0,4.7,22-07-2024
+784,22,Female,San Antonio,43280,7,10,189,1890,37,Toys,Social Media,Tablet,PayPal,0,3,29-04-2025
+785,26,Male,San Antonio,106025,5,13,156,2028,40,Electronics,Social Media,Mobile,PayPal,1,3.9,16-09-2025
+786,18,Male,Dallas,59203,1,13,96,1248,24,Electronics,Social Media,Desktop,PayPal,1,3.3,31-01-2025
+787,48,Female,Phoenix,58415,3,13,198,2574,51,Sports,Organic,Mobile,UPI,1,3.9,12-01-2025
+788,30,Female,New York,61923,10,4,80,320,6,Electronics,Organic,Mobile,PayPal,1,4.6,19-12-2025
+789,22,Female,Philadelphia,62470,1,10,76,760,15,Home,Paid Ads,Mobile,Debit Card,1,4.8,01-11-2024
+790,52,Female,Philadelphia,61126,10,12,61,732,14,Toys,Referral,Mobile,PayPal,1,3.8,23-07-2025
+791,43,Male,Philadelphia,36553,6,13,125,1625,32,Sports,Social Media,Desktop,Credit Card,1,2.8,19-04-2024
+792,49,Male,Houston,118989,8,11,191,2101,42,Fashion,Paid Ads,Desktop,UPI,1,3.7,18-12-2024
+793,31,Male,Phoenix,66007,7,10,81,810,16,Beauty,Social Media,Tablet,Debit Card,0,4,21-11-2025
+794,19,Female,San Antonio,63387,9,16,184,2944,58,Fashion,Social Media,Tablet,PayPal,0,4.2,26-12-2024
+795,50,Male,San Diego,55976,7,15,137,2055,41,Beauty,Paid Ads,Mobile,Debit Card,1,3.1,19-12-2025
+796,27,Female,Houston,98247,8,12,207,2484,49,Fashion,Social Media,Desktop,UPI,1,4.5,30-07-2024
+797,48,Female,Phoenix,44434,7,14,21,294,5,Electronics,Organic,Tablet,Debit Card,1,4.5,13-06-2025
+798,46,Male,Los Angeles,33339,7,9,81,729,14,Sports,Paid Ads,Desktop,Credit Card,0,4.1,28-07-2025
+799,56,Female,Phoenix,101596,1,17,267,4539,90,Beauty,Referral,Desktop,UPI,1,3.1,06-06-2024
+800,27,Female,San Jose,32459,1,15,46,690,13,Sports,Paid Ads,Desktop,Credit Card,1,3.5,27-06-2024
+801,41,Female,Los Angeles,55474,8,10,144,1440,28,Fashion,Social Media,Mobile,UPI,1,4.5,17-09-2024
+802,28,Female,Chicago,89004,10,9,143,1287,25,Toys,Social Media,Mobile,UPI,0,4.8,11-12-2024
+803,52,Female,New York,117081,1,12,154,1848,36,Sports,Social Media,Tablet,Credit Card,0,2.6,31-01-2025
+804,43,Female,San Jose,80062,3,19,22,418,8,Electronics,Social Media,Desktop,Credit Card,0,3.5,07-09-2024
+805,30,Female,Los Angeles,66776,1,11,131,1441,28,Home,Paid Ads,Desktop,PayPal,0,3.5,20-07-2024
+806,52,Female,San Diego,76539,6,5,131,655,13,Toys,Organic,Desktop,Debit Card,0,3.6,21-10-2024
+807,52,Female,Dallas,69107,1,10,166,1660,33,Electronics,Paid Ads,Tablet,PayPal,0,3.8,21-03-2024
+808,37,Female,Phoenix,101835,7,11,126,1386,27,Beauty,Social Media,Desktop,Credit Card,0,4.1,19-10-2024
+809,39,Male,Dallas,69470,6,7,178,1246,24,Home,Social Media,Tablet,PayPal,0,3.6,09-03-2025
+810,46,Male,Chicago,36574,3,15,46,690,13,Fashion,Referral,Mobile,UPI,1,2.8,12-12-2025
+811,36,Male,San Antonio,52191,5,20,69,1380,27,Toys,Organic,Mobile,UPI,0,3.8,26-02-2025
+812,53,Male,Houston,111455,8,17,259,4403,88,Sports,Paid Ads,Desktop,PayPal,1,4.8,20-03-2025
+813,53,Female,Houston,116129,2,13,88,1144,22,Electronics,Social Media,Mobile,PayPal,1,4.5,15-04-2024
+814,38,Female,Phoenix,61770,8,5,297,1485,29,Toys,Social Media,Tablet,Credit Card,0,3.4,01-03-2024
+815,42,Female,Philadelphia,100441,4,13,27,351,7,Fashion,Organic,Desktop,PayPal,1,4.3,06-02-2026
+816,44,Male,Dallas,71552,6,16,226,3616,72,Sports,Organic,Mobile,UPI,1,4.4,29-08-2025
+817,23,Male,Dallas,36765,4,12,195,2340,46,Sports,Paid Ads,Tablet,UPI,1,4.4,14-03-2024
+818,28,Male,Philadelphia,118281,8,17,175,2975,59,Fashion,Organic,Desktop,PayPal,1,3.8,20-07-2024
+819,56,Female,Phoenix,113666,9,11,271,2981,59,Fashion,Social Media,Tablet,UPI,0,4.5,15-07-2025
+820,59,Male,Houston,97438,8,17,62,1054,21,Electronics,Referral,Tablet,Credit Card,1,4.8,21-08-2024
+821,56,Male,San Diego,103414,10,10,273,2730,54,Toys,Referral,Mobile,Debit Card,1,3.1,09-01-2026
+822,44,Female,New York,47333,1,7,230,1610,32,Fashion,Organic,Desktop,Debit Card,1,3.2,17-04-2024
+823,38,Male,Chicago,76947,5,13,39,507,10,Fashion,Social Media,Desktop,Debit Card,1,2.8,04-04-2024
+824,23,Male,Phoenix,51292,7,18,51,918,18,Beauty,Social Media,Desktop,UPI,0,4.9,01-05-2025
+825,51,Male,Philadelphia,87732,2,18,204,3672,73,Sports,Social Media,Desktop,Debit Card,0,3.2,03-02-2026
+826,23,Male,Houston,118993,7,23,63,1449,28,Electronics,Social Media,Desktop,Debit Card,1,4.3,17-09-2024
+827,33,Female,Phoenix,92583,10,11,100,1100,22,Beauty,Organic,Desktop,UPI,1,2.7,11-05-2025
+828,26,Female,New York,103757,3,14,256,3584,71,Beauty,Paid Ads,Tablet,UPI,0,3.7,16-03-2025
+829,22,Male,Chicago,50175,7,17,194,3298,65,Toys,Referral,Tablet,Credit Card,1,2.9,12-06-2025
+830,24,Male,Phoenix,92963,5,10,258,2580,51,Electronics,Referral,Desktop,Debit Card,0,2.9,26-02-2024
+831,56,Male,Philadelphia,43429,5,13,73,949,18,Toys,Paid Ads,Mobile,Debit Card,0,4.8,19-08-2025
+832,20,Male,Philadelphia,30868,2,14,103,1442,28,Toys,Social Media,Desktop,Credit Card,0,4.3,16-11-2025
+833,56,Male,Los Angeles,44325,5,10,63,630,12,Fashion,Paid Ads,Mobile,Credit Card,0,5,12-09-2025
+834,52,Male,Chicago,103802,1,11,274,3014,60,Beauty,Social Media,Tablet,PayPal,1,2.7,28-08-2025
+835,45,Male,New York,52187,2,4,105,420,8,Home,Referral,Desktop,Debit Card,0,4.6,21-04-2025
+836,47,Female,Houston,105133,2,9,113,1017,20,Electronics,Referral,Mobile,Debit Card,0,4.5,02-01-2025
+837,44,Male,Philadelphia,47131,10,12,133,1596,31,Toys,Paid Ads,Desktop,PayPal,1,2.9,03-09-2025
+838,34,Female,San Diego,76365,10,11,190,2090,41,Home,Paid Ads,Desktop,UPI,0,4.9,15-04-2024
+839,57,Female,San Jose,84380,10,11,293,3223,64,Sports,Paid Ads,Desktop,UPI,0,3.2,22-01-2025
+840,30,Male,Los Angeles,57723,9,12,137,1644,32,Beauty,Referral,Desktop,PayPal,0,4.1,07-07-2025
+841,25,Female,Philadelphia,55968,8,11,46,506,10,Fashion,Organic,Tablet,UPI,1,4.7,08-06-2024
+842,38,Male,Houston,65421,3,11,182,2002,40,Sports,Social Media,Tablet,UPI,1,3.6,26-07-2024
+843,54,Female,Chicago,113265,2,14,86,1204,24,Fashion,Referral,Mobile,UPI,1,4.8,22-02-2024
+844,27,Male,Phoenix,118747,7,11,54,594,11,Electronics,Social Media,Desktop,UPI,0,4,24-12-2025
+845,27,Female,Phoenix,70910,5,18,271,4878,97,Electronics,Paid Ads,Tablet,PayPal,1,4.8,29-05-2025
+846,58,Male,Chicago,41991,6,7,63,441,8,Home,Paid Ads,Mobile,PayPal,0,4.3,18-06-2025
+847,30,Female,Los Angeles,34889,6,11,194,2134,42,Sports,Organic,Mobile,Debit Card,0,4,22-05-2025
+848,37,Male,Chicago,88235,3,11,194,2134,42,Toys,Referral,Mobile,PayPal,0,4.6,03-03-2024
+849,31,Male,Phoenix,60105,3,17,254,4318,86,Beauty,Social Media,Tablet,PayPal,0,3,25-11-2024
+850,31,Female,San Diego,37253,1,16,37,592,11,Fashion,Organic,Desktop,Credit Card,0,4.1,09-10-2024
+851,23,Female,Phoenix,67170,4,6,33,198,3,Toys,Organic,Desktop,UPI,0,3.8,15-12-2025
+852,41,Female,Phoenix,80151,9,13,287,3731,74,Toys,Referral,Desktop,UPI,0,4.6,19-02-2026
+853,40,Female,Dallas,115674,5,13,274,3562,71,Sports,Social Media,Tablet,Debit Card,0,2.6,21-07-2025
+854,31,Female,Philadelphia,34606,9,18,149,2682,53,Beauty,Referral,Desktop,Debit Card,0,4.4,14-04-2024
+855,18,Male,Houston,58176,9,19,286,5434,100,Home,Social Media,Desktop,Credit Card,1,2.6,01-12-2025
+856,51,Female,New York,119082,8,15,122,1830,36,Sports,Social Media,Mobile,Debit Card,0,3.5,10-10-2025
+857,37,Male,Dallas,119196,9,12,46,552,11,Beauty,Organic,Desktop,UPI,0,2.5,15-05-2024
+858,26,Female,Dallas,34096,9,10,220,2200,44,Beauty,Organic,Desktop,PayPal,0,2.8,30-11-2025
+859,24,Male,San Antonio,33212,4,14,243,3402,68,Beauty,Organic,Tablet,Debit Card,1,4.9,29-11-2025
+860,21,Female,Dallas,64019,10,16,176,2816,56,Electronics,Social Media,Desktop,UPI,1,3.7,13-03-2024
+861,32,Male,San Jose,40857,6,7,105,735,14,Toys,Social Media,Desktop,Credit Card,0,5,12-11-2025
+862,29,Male,Philadelphia,72816,5,16,262,4192,83,Fashion,Organic,Tablet,Debit Card,0,2.6,14-10-2024
+863,32,Male,Phoenix,53437,2,13,281,3653,73,Toys,Organic,Tablet,Credit Card,1,4.2,28-03-2025
+864,30,Female,San Jose,95642,10,12,213,2556,51,Home,Organic,Desktop,Debit Card,0,3.7,15-06-2024
+865,34,Male,San Antonio,69015,2,9,160,1440,28,Sports,Social Media,Desktop,UPI,1,4.5,10-12-2024
+866,35,Male,Houston,116426,2,14,240,3360,67,Electronics,Referral,Desktop,PayPal,1,4.6,18-01-2026
+867,29,Female,Houston,48676,10,18,269,4842,96,Electronics,Social Media,Desktop,UPI,1,4.1,27-02-2025
+868,36,Female,Phoenix,85965,9,8,127,1016,20,Electronics,Social Media,Mobile,Credit Card,0,2.6,09-07-2024
+869,44,Female,Dallas,110399,2,7,170,1190,23,Sports,Social Media,Tablet,UPI,1,3.5,30-04-2024
+870,31,Female,Los Angeles,105088,8,16,72,1152,23,Electronics,Referral,Desktop,Debit Card,0,4.8,28-01-2025
+871,43,Female,San Jose,53401,8,10,230,2300,46,Fashion,Social Media,Desktop,UPI,0,3.9,15-12-2024
+872,45,Female,San Antonio,107681,7,8,133,1064,21,Electronics,Organic,Tablet,UPI,0,4.9,01-04-2024
+873,51,Female,Philadelphia,50641,5,11,38,418,8,Electronics,Referral,Desktop,UPI,0,4,28-08-2024
+874,52,Male,New York,31439,7,11,61,671,13,Toys,Social Media,Mobile,Debit Card,0,4.8,02-11-2024
+875,54,Male,Dallas,39404,8,14,56,784,15,Toys,Organic,Tablet,UPI,1,4.4,04-04-2024
+876,21,Female,Philadelphia,102725,4,13,286,3718,74,Sports,Organic,Desktop,Debit Card,1,3.5,17-10-2025
+877,27,Male,Philadelphia,76489,8,19,270,5130,100,Electronics,Organic,Mobile,PayPal,0,4.8,26-03-2024
+878,19,Female,New York,46352,10,10,116,1160,23,Beauty,Organic,Tablet,Debit Card,1,4.7,08-08-2025
+879,43,Male,Philadelphia,103927,3,14,295,4130,82,Fashion,Referral,Mobile,Credit Card,0,3.7,12-08-2025
+880,42,Female,Houston,78785,7,13,226,2938,58,Fashion,Referral,Tablet,PayPal,0,3.1,30-06-2024
+881,36,Female,Los Angeles,107228,5,8,151,1208,24,Home,Referral,Tablet,PayPal,1,3.2,23-04-2025
+882,50,Female,Houston,75313,10,14,201,2814,56,Home,Paid Ads,Mobile,UPI,1,4.3,30-03-2024
+883,57,Male,New York,110934,4,10,199,1990,39,Electronics,Social Media,Mobile,Debit Card,0,4,06-03-2025
+884,40,Male,New York,45457,8,14,42,588,11,Sports,Referral,Desktop,PayPal,0,3.3,07-02-2026
+885,32,Male,San Diego,118954,9,6,37,222,4,Beauty,Referral,Desktop,Credit Card,1,4.8,28-08-2024
+886,33,Female,Philadelphia,77910,6,14,32,448,8,Electronics,Social Media,Tablet,Debit Card,0,4.6,28-02-2024
+887,58,Male,San Jose,43686,4,7,103,721,14,Sports,Paid Ads,Tablet,Credit Card,1,2.7,20-06-2025
+888,30,Male,Philadelphia,90252,4,12,215,2580,51,Beauty,Social Media,Mobile,UPI,0,2.9,13-02-2026
+889,33,Female,New York,85842,1,7,159,1113,22,Beauty,Referral,Mobile,Debit Card,0,3.8,19-05-2024
+890,25,Male,Los Angeles,119301,9,12,217,2604,52,Fashion,Referral,Desktop,UPI,0,4.7,25-02-2025
+891,19,Male,Houston,40223,7,12,251,3012,60,Electronics,Organic,Mobile,Debit Card,0,2.9,14-05-2025
+892,38,Male,Chicago,104095,1,14,294,4116,82,Beauty,Referral,Desktop,UPI,0,4.3,15-04-2024
+893,22,Male,New York,40995,9,14,258,3612,72,Toys,Referral,Tablet,Debit Card,0,4.1,19-06-2024
+894,47,Female,Chicago,84348,7,14,180,2520,50,Sports,Social Media,Mobile,Credit Card,1,3.2,27-02-2024
+895,25,Female,Chicago,113828,2,14,127,1778,35,Toys,Social Media,Mobile,UPI,0,3.5,20-09-2024
+896,36,Female,Chicago,34860,2,11,125,1375,27,Toys,Organic,Tablet,Credit Card,0,3.7,25-04-2024
+897,37,Female,Los Angeles,31225,5,7,104,728,14,Beauty,Organic,Desktop,PayPal,0,2.6,01-09-2025
+898,47,Female,Houston,36858,7,6,35,210,4,Home,Social Media,Tablet,Credit Card,1,4.9,08-02-2026
+899,58,Male,Houston,88841,10,10,152,1520,30,Electronics,Paid Ads,Mobile,Credit Card,0,2.6,07-06-2024
+900,45,Female,Philadelphia,31263,10,15,236,3540,70,Home,Referral,Desktop,PayPal,1,2.9,24-09-2024
+901,30,Female,Chicago,96558,6,17,121,2057,41,Toys,Paid Ads,Desktop,Debit Card,1,4.8,22-03-2024
+902,31,Male,New York,59992,2,4,32,128,2,Sports,Social Media,Mobile,Credit Card,0,4.9,08-08-2024
+903,57,Male,New York,58522,8,12,274,3288,65,Toys,Paid Ads,Mobile,Debit Card,1,3.6,25-08-2025
+904,56,Male,San Diego,52873,1,9,168,1512,30,Toys,Paid Ads,Tablet,PayPal,0,4,18-12-2025
+905,42,Female,New York,102717,6,15,113,1695,33,Fashion,Social Media,Desktop,Debit Card,1,3.6,09-10-2025
+906,25,Male,Philadelphia,99918,2,12,187,2244,44,Toys,Paid Ads,Desktop,Debit Card,0,3.3,23-02-2024
+907,21,Female,Phoenix,34870,8,11,47,517,10,Beauty,Referral,Mobile,Debit Card,0,4,10-06-2024
+908,58,Female,Los Angeles,37038,3,13,213,2769,55,Electronics,Referral,Desktop,UPI,0,4.5,25-04-2024
+909,39,Male,San Antonio,76612,3,16,232,3712,74,Electronics,Organic,Desktop,Credit Card,1,4.7,29-04-2025
+910,25,Female,San Diego,41755,4,16,268,4288,85,Electronics,Paid Ads,Mobile,UPI,1,3.8,22-02-2024
+911,51,Female,New York,112762,2,9,59,531,10,Beauty,Social Media,Mobile,Debit Card,0,4.5,09-10-2024
+912,45,Male,Dallas,111049,7,11,57,627,12,Toys,Paid Ads,Mobile,UPI,0,4.4,03-06-2025
+913,56,Female,San Diego,95283,5,10,172,1720,34,Home,Referral,Desktop,PayPal,1,5,06-11-2024
+914,53,Female,Los Angeles,58582,10,23,139,3197,63,Beauty,Referral,Tablet,Credit Card,1,2.6,26-11-2025
+915,56,Male,Phoenix,64136,10,16,121,1936,38,Toys,Organic,Mobile,UPI,0,3.8,01-08-2025
+916,56,Male,San Diego,73175,6,8,38,304,6,Electronics,Referral,Desktop,PayPal,0,3.9,18-03-2024
+917,43,Female,New York,37248,6,10,26,260,5,Home,Social Media,Desktop,UPI,1,3.1,09-10-2024
+918,59,Male,Chicago,69115,10,12,70,840,16,Toys,Referral,Tablet,Debit Card,0,3.1,13-05-2024
+919,51,Male,Dallas,65989,8,13,262,3406,68,Sports,Organic,Desktop,PayPal,0,3.8,11-04-2025
+920,33,Male,San Diego,48615,7,15,92,1380,27,Electronics,Social Media,Desktop,UPI,1,3.3,04-05-2024
+921,43,Female,Phoenix,49483,8,6,49,294,5,Toys,Organic,Desktop,Credit Card,1,4,27-08-2024
+922,55,Male,San Antonio,101310,2,5,40,200,4,Sports,Social Media,Desktop,UPI,0,2.7,05-02-2026
+923,28,Male,Philadelphia,47903,4,8,278,2224,44,Home,Organic,Tablet,PayPal,1,4.1,30-11-2025
+924,36,Male,Los Angeles,52333,7,13,46,598,11,Beauty,Social Media,Tablet,PayPal,1,2.6,01-12-2024
+925,48,Female,Philadelphia,107605,6,16,297,4752,95,Fashion,Social Media,Mobile,UPI,0,4.1,21-08-2024
+926,45,Female,Phoenix,87389,6,16,90,1440,28,Fashion,Social Media,Mobile,Credit Card,1,2.5,01-04-2024
+927,55,Male,Philadelphia,51346,7,12,205,2460,49,Beauty,Paid Ads,Desktop,Debit Card,0,4.6,10-03-2025
+928,53,Male,Philadelphia,52444,10,9,69,621,12,Toys,Social Media,Tablet,Credit Card,0,3,10-07-2025
+929,36,Female,Los Angeles,113290,9,10,204,2040,40,Electronics,Referral,Desktop,PayPal,1,4.7,07-04-2024
+930,43,Male,Phoenix,51711,4,16,83,1328,26,Sports,Paid Ads,Mobile,Credit Card,0,3.9,05-02-2025
+931,44,Female,Philadelphia,68174,9,15,240,3600,72,Fashion,Paid Ads,Mobile,UPI,0,3.1,07-03-2024
+932,36,Female,Houston,54408,2,10,268,2680,53,Fashion,Social Media,Desktop,Credit Card,0,3.5,16-04-2024
+933,43,Male,San Antonio,67869,10,14,225,3150,63,Fashion,Social Media,Desktop,Credit Card,0,4,21-01-2025
+934,39,Male,Chicago,83270,7,18,100,1800,36,Beauty,Social Media,Tablet,UPI,0,2.5,25-12-2024
+935,24,Female,San Diego,105205,9,8,117,936,18,Beauty,Paid Ads,Desktop,Debit Card,0,2.7,11-05-2024
+936,19,Male,Houston,72287,7,17,243,4131,82,Fashion,Social Media,Desktop,PayPal,0,4.3,22-07-2025
+937,18,Male,San Diego,45376,7,5,166,830,16,Fashion,Referral,Tablet,PayPal,1,3.8,04-04-2024
+938,58,Male,Los Angeles,103905,9,23,225,5175,100,Toys,Paid Ads,Mobile,Debit Card,1,3.9,25-06-2025
+939,37,Male,Dallas,33145,10,14,59,826,16,Sports,Paid Ads,Tablet,PayPal,0,5,30-10-2024
+940,42,Female,Houston,33512,3,12,71,852,17,Electronics,Paid Ads,Mobile,UPI,0,3,27-07-2024
+941,36,Female,Houston,110171,7,8,275,2200,44,Sports,Social Media,Mobile,Credit Card,0,4,28-11-2024
+942,47,Male,New York,46820,3,10,232,2320,46,Home,Social Media,Tablet,Credit Card,0,4.3,28-04-2025
+943,18,Male,Chicago,96084,9,19,243,4617,92,Toys,Social Media,Desktop,PayPal,0,4.2,18-12-2024
+944,32,Male,Dallas,115180,4,15,114,1710,34,Toys,Paid Ads,Desktop,Debit Card,0,3.7,03-04-2024
+945,26,Male,Phoenix,39236,10,10,80,800,16,Fashion,Organic,Desktop,Debit Card,0,4.3,25-04-2025
+946,56,Male,San Antonio,45675,5,7,89,623,12,Fashion,Referral,Tablet,UPI,0,4.9,21-05-2025
+947,33,Male,Chicago,79986,2,15,182,2730,54,Sports,Organic,Desktop,Debit Card,1,4.3,26-07-2025
+948,21,Male,Dallas,78657,3,20,99,1980,39,Toys,Organic,Tablet,Debit Card,1,3.8,09-03-2025
+949,38,Male,Houston,114482,5,9,284,2556,51,Fashion,Social Media,Mobile,UPI,0,4.7,13-10-2024
+950,22,Female,Phoenix,57215,7,14,289,4046,80,Home,Social Media,Mobile,UPI,1,3.7,21-12-2025
+951,46,Female,New York,52218,5,14,98,1372,27,Beauty,Organic,Mobile,Debit Card,0,3.5,04-01-2025
+952,45,Male,Los Angeles,88360,2,12,77,924,18,Fashion,Organic,Mobile,PayPal,1,5,04-07-2024
+953,36,Male,San Diego,85916,3,11,167,1837,36,Beauty,Organic,Desktop,Credit Card,0,4.2,11-10-2025
+954,47,Female,Chicago,81869,3,10,52,520,10,Electronics,Referral,Tablet,Credit Card,0,3.7,08-04-2025
+955,59,Male,Phoenix,82182,4,14,24,336,6,Sports,Referral,Tablet,PayPal,0,4.1,14-08-2025
+956,30,Male,Los Angeles,89021,8,10,134,1340,26,Beauty,Paid Ads,Tablet,UPI,0,2.8,21-09-2024
+957,19,Male,Houston,57293,2,11,42,462,9,Sports,Social Media,Tablet,PayPal,0,3.9,19-11-2024
+958,25,Female,Phoenix,55727,7,5,259,1295,25,Toys,Organic,Tablet,PayPal,0,2.6,02-03-2024
+959,28,Female,Dallas,100320,2,14,141,1974,39,Beauty,Social Media,Mobile,PayPal,0,5,16-01-2025
+960,36,Male,Houston,103563,1,11,247,2717,54,Fashion,Referral,Tablet,Debit Card,1,3.5,11-03-2025
+961,47,Female,Chicago,93967,10,18,47,846,16,Electronics,Social Media,Desktop,UPI,0,3.5,27-08-2025
+962,53,Female,San Diego,65739,10,9,296,2664,53,Beauty,Referral,Tablet,Debit Card,1,3.4,21-12-2025
+963,42,Male,San Diego,106868,6,14,284,3976,79,Home,Referral,Mobile,PayPal,0,4,08-06-2024
+964,56,Female,San Antonio,34090,3,18,146,2628,52,Home,Paid Ads,Tablet,Debit Card,0,3.9,25-06-2024
+965,42,Male,San Jose,77801,6,21,285,5985,100,Sports,Referral,Tablet,Debit Card,1,3.8,09-03-2025
+966,40,Male,New York,88334,4,17,72,1224,24,Toys,Referral,Tablet,UPI,0,2.9,11-12-2024
+967,18,Female,Houston,86614,3,11,239,2629,52,Beauty,Referral,Desktop,PayPal,0,4.1,02-07-2025
+968,59,Female,New York,69423,8,19,184,3496,69,Fashion,Organic,Mobile,UPI,0,3.5,29-10-2024
+969,50,Male,New York,82433,10,10,24,240,4,Beauty,Paid Ads,Mobile,Debit Card,0,2.8,26-05-2025
+970,32,Female,Chicago,102036,2,9,238,2142,42,Fashion,Paid Ads,Desktop,Debit Card,0,3.4,19-02-2026
+971,32,Male,San Diego,81603,2,11,177,1947,38,Electronics,Organic,Tablet,Debit Card,0,2.7,05-11-2025
+972,53,Male,Chicago,116388,8,15,42,630,12,Home,Social Media,Desktop,UPI,1,4.9,30-04-2025
+973,22,Male,Chicago,109538,4,15,25,375,7,Beauty,Paid Ads,Desktop,Credit Card,0,3.5,18-08-2024
+974,33,Female,Phoenix,90282,10,11,171,1881,37,Beauty,Organic,Tablet,UPI,1,3.8,25-01-2026
+975,38,Female,San Diego,80235,3,16,205,3280,65,Home,Referral,Desktop,Debit Card,0,3.5,07-01-2026
+976,23,Female,Philadelphia,38382,4,11,109,1199,23,Beauty,Organic,Desktop,UPI,1,5,25-07-2025
+977,31,Male,Phoenix,93908,7,14,191,2674,53,Beauty,Referral,Tablet,Debit Card,0,4.5,15-04-2024
+978,36,Male,Chicago,70751,5,19,215,4085,81,Fashion,Social Media,Desktop,Debit Card,1,3.1,28-12-2024
+979,31,Female,San Jose,48366,1,9,290,2610,52,Toys,Paid Ads,Desktop,UPI,1,3,20-03-2024
+980,48,Male,San Jose,80805,9,17,265,4505,90,Toys,Referral,Mobile,Debit Card,0,3.3,26-12-2025
+981,21,Female,Los Angeles,103124,8,7,247,1729,34,Beauty,Social Media,Mobile,Credit Card,1,4.5,12-08-2025
+982,47,Female,Los Angeles,54064,6,11,35,385,7,Sports,Social Media,Tablet,Credit Card,1,3,16-08-2025
+983,44,Female,San Diego,101792,1,18,208,3744,74,Toys,Paid Ads,Mobile,UPI,0,4.4,21-07-2025
+984,36,Male,Chicago,108437,7,11,196,2156,43,Home,Referral,Mobile,PayPal,1,4.6,27-02-2025
+985,28,Male,Philadelphia,54789,2,14,81,1134,22,Home,Organic,Mobile,PayPal,1,2.9,02-08-2024
+986,23,Male,Dallas,64469,1,13,177,2301,46,Sports,Paid Ads,Tablet,UPI,0,3.4,22-02-2024
+987,36,Female,San Antonio,67355,7,9,63,567,11,Sports,Paid Ads,Tablet,UPI,1,3,21-03-2024
+988,44,Male,Houston,82268,7,4,26,104,2,Toys,Organic,Desktop,Debit Card,1,3.2,09-11-2025
+989,56,Male,New York,91331,2,12,170,2040,40,Electronics,Paid Ads,Mobile,Debit Card,0,3.3,04-06-2024
+990,21,Male,San Diego,56957,4,12,211,2532,50,Beauty,Referral,Desktop,Credit Card,0,3.2,17-12-2025
+991,40,Male,New York,56015,8,12,125,1500,30,Beauty,Referral,Tablet,Credit Card,0,4.6,10-07-2025
+992,44,Female,Chicago,51584,8,13,211,2743,54,Home,Referral,Mobile,Debit Card,0,4.9,14-08-2025
+993,31,Female,Los Angeles,87645,6,16,164,2624,52,Home,Referral,Desktop,Debit Card,0,3.7,11-10-2024
+994,57,Female,Dallas,71291,6,14,198,2772,55,Sports,Organic,Desktop,Credit Card,1,4.9,29-11-2024
+995,18,Male,San Diego,72800,4,9,234,2106,42,Toys,Paid Ads,Tablet,Debit Card,0,4.8,26-11-2024
+996,35,Female,Philadelphia,81843,6,6,136,816,16,Fashion,Paid Ads,Mobile,Debit Card,0,3,24-12-2024
+997,45,Female,New York,89019,4,11,287,3157,63,Fashion,Paid Ads,Desktop,PayPal,0,3,14-10-2025
+998,18,Male,Philadelphia,118279,4,13,85,1105,22,Beauty,Referral,Tablet,Debit Card,0,2.9,21-11-2025
+999,20,Male,Houston,92294,4,11,139,1529,30,Sports,Paid Ads,Mobile,PayPal,0,4.6,05-01-2026
+1000,26,Male,San Diego,38070,9,11,249,2739,54,Home,Referral,Mobile,PayPal,0,2.7,10-10-2024
